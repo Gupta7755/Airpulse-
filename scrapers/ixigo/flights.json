@@ -38,7 +38,7 @@
       "total_fare": 7790.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458473+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078406+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -75,7 +75,7 @@
       "total_fare": 8856.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458500+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078434+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -112,7 +112,7 @@
       "total_fare": 7169.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458515+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078448+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -149,7 +149,7 @@
       "total_fare": 8520.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458527+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078464+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -186,7 +186,7 @@
       "total_fare": 8028.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458539+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078474+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -223,7 +223,7 @@
       "total_fare": 7477.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458548+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078484+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -260,7 +260,7 @@
       "total_fare": 7306.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458563+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078496+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -297,7 +297,7 @@
       "total_fare": 8307.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458572+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078505+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -334,7 +334,7 @@
       "total_fare": 6724.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458581+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078512+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -371,7 +371,7 @@
       "total_fare": 7991.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458590+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078520+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -408,7 +408,7 @@
       "total_fare": 7530.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458599+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078528+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -445,7 +445,7 @@
       "total_fare": 7013.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458608+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078535+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -482,7 +482,7 @@
       "total_fare": 6038.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458619+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078545+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -519,7 +519,7 @@
       "total_fare": 6865.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458629+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078552+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -556,7 +556,7 @@
       "total_fare": 5557.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458639+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078559+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -593,7 +593,7 @@
       "total_fare": 6604.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458679+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078567+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -630,7 +630,7 @@
       "total_fare": 6223.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458687+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078574+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -667,7 +667,7 @@
       "total_fare": 5796.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458697+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078581+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -704,7 +704,7 @@
       "total_fare": 5314.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458707+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078589+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -741,7 +741,7 @@
       "total_fare": 6041.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458715+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078595+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -778,7 +778,7 @@
       "total_fare": 4890.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458723+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078602+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -815,7 +815,7 @@
       "total_fare": 5812.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458731+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078607+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -852,7 +852,7 @@
       "total_fare": 5477.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458739+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078613+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -889,7 +889,7 @@
       "total_fare": 5101.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458748+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078618+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -926,7 +926,7 @@
       "total_fare": 4710.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458758+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078625+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -963,7 +963,7 @@
       "total_fare": 5355.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458766+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078630+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1000,7 +1000,7 @@
       "total_fare": 4335.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458775+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078636+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1037,7 +1037,7 @@
       "total_fare": 5152.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458783+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078641+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1074,7 +1074,7 @@
       "total_fare": 4854.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458791+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078646+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1111,7 +1111,7 @@
       "total_fare": 4521.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458800+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078652+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1148,7 +1148,7 @@
       "total_fare": 4227.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458810+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078658+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1185,7 +1185,7 @@
       "total_fare": 4805.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458818+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078664+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1222,7 +1222,7 @@
       "total_fare": 3890.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458826+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078670+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1259,7 +1259,7 @@
       "total_fare": 4623.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458835+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078675+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1296,7 +1296,7 @@
       "total_fare": 4356.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458843+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078681+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1333,7 +1333,7 @@
       "total_fare": 4057.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458851+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078685+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1370,7 +1370,7 @@
       "total_fare": 9139.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458876+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078703+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1407,7 +1407,7 @@
       "total_fare": 10390.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458886+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078711+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1444,7 +1444,7 @@
       "total_fare": 8411.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458895+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078717+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1481,7 +1481,7 @@
       "total_fare": 9996.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458903+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078723+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1518,7 +1518,7 @@
       "total_fare": 9419.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458912+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078729+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1555,7 +1555,7 @@
       "total_fare": 8573.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458922+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078736+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1592,7 +1592,7 @@
       "total_fare": 9746.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458930+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078741+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1629,7 +1629,7 @@
       "total_fare": 7889.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458938+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078747+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1666,7 +1666,7 @@
       "total_fare": 9376.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458946+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078753+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1703,7 +1703,7 @@
       "total_fare": 8835.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458955+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078758+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1740,7 +1740,7 @@
       "total_fare": 7085.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458964+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078764+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1777,7 +1777,7 @@
       "total_fare": 8055.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458972+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078770+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1814,7 +1814,7 @@
       "total_fare": 6520.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458980+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078775+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1851,7 +1851,7 @@
       "total_fare": 7749.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458988+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078780+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1888,7 +1888,7 @@
       "total_fare": 7302.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.458996+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078786+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1925,7 +1925,7 @@
       "total_fare": 6235.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459006+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078792+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1962,7 +1962,7 @@
       "total_fare": 7088.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459014+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078798+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -1999,7 +1999,7 @@
       "total_fare": 5738.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459022+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078803+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2036,7 +2036,7 @@
       "total_fare": 6819.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459030+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078810+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2073,7 +2073,7 @@
       "total_fare": 6426.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459039+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078815+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2110,7 +2110,7 @@
       "total_fare": 5526.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459048+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078822+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2147,7 +2147,7 @@
       "total_fare": 6283.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459057+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078828+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2184,7 +2184,7 @@
       "total_fare": 5086.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459066+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078834+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2221,7 +2221,7 @@
       "total_fare": 6044.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459074+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078839+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2258,7 +2258,7 @@
       "total_fare": 5695.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459083+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078844+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2295,7 +2295,7 @@
       "total_fare": 4959.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459093+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078851+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2332,7 +2332,7 @@
       "total_fare": 5638.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459101+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078856+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2369,7 +2369,7 @@
       "total_fare": 4564.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459109+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078861+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2406,7 +2406,7 @@
       "total_fare": 5424.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459117+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078867+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2443,7 +2443,7 @@
       "total_fare": 5111.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459126+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078873+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2480,7 +2480,7 @@
       "total_fare": 6167.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459144+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078885+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2517,7 +2517,7 @@
       "total_fare": 6530.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459153+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078892+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2554,7 +2554,7 @@
       "total_fare": 6094.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459161+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078898+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2591,7 +2591,7 @@
       "total_fare": 6745.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459170+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078904+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2628,7 +2628,7 @@
       "total_fare": 6356.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459179+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078909+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2665,7 +2665,7 @@
       "total_fare": 5785.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459188+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078918+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2702,7 +2702,7 @@
       "total_fare": 6125.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459206+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078923+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2739,7 +2739,7 @@
       "total_fare": 5716.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459214+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078929+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2776,7 +2776,7 @@
       "total_fare": 6327.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459223+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078934+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2813,7 +2813,7 @@
       "total_fare": 5962.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459231+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078940+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2850,7 +2850,7 @@
       "total_fare": 4781.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459240+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078962+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2887,7 +2887,7 @@
       "total_fare": 5062.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459250+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078970+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2924,7 +2924,7 @@
       "total_fare": 4724.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459258+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078975+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2961,7 +2961,7 @@
       "total_fare": 5229.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459266+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078981+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -2998,7 +2998,7 @@
       "total_fare": 4927.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459274+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078986+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3035,7 +3035,7 @@
       "total_fare": 4207.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459284+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078992+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3072,7 +3072,7 @@
       "total_fare": 4455.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459292+00:00",
+      "scraped_at": "2026-10-22T15:46:04.078998+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3109,7 +3109,7 @@
       "total_fare": 4157.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459300+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079003+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3146,7 +3146,7 @@
       "total_fare": 4602.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459309+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079008+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3183,7 +3183,7 @@
       "total_fare": 4336.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459321+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079014+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3220,7 +3220,7 @@
       "total_fare": 3729.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459332+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079020+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3257,7 +3257,7 @@
       "total_fare": 3948.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459340+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079025+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3294,7 +3294,7 @@
       "total_fare": 3685.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459348+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079032+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3331,7 +3331,7 @@
       "total_fare": 4079.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459356+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079038+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3368,7 +3368,7 @@
       "total_fare": 3843.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459365+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079045+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3405,7 +3405,7 @@
       "total_fare": 3347.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459375+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079051+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3442,7 +3442,7 @@
       "total_fare": 3544.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459383+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079056+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3479,7 +3479,7 @@
       "total_fare": 3307.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459392+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079063+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3516,7 +3516,7 @@
       "total_fare": 3660.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459401+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079068+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3553,7 +3553,7 @@
       "total_fare": 3449.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459409+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079073+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3590,7 +3590,7 @@
       "total_fare": 8483.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459425+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079083+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3627,7 +3627,7 @@
       "total_fare": 9644.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459434+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079089+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3664,7 +3664,7 @@
       "total_fare": 8218.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459445+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079095+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3701,7 +3701,7 @@
       "total_fare": 9464.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459454+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079101+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3738,7 +3738,7 @@
       "total_fare": 7957.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459463+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079107+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3775,7 +3775,7 @@
       "total_fare": 9046.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459472+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079112+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3812,7 +3812,7 @@
       "total_fare": 7708.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459480+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079118+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3849,7 +3849,7 @@
       "total_fare": 8877.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459489+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079123+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3886,7 +3886,7 @@
       "total_fare": 6576.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459499+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079129+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3923,7 +3923,7 @@
       "total_fare": 7476.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459508+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079136+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3960,7 +3960,7 @@
       "total_fare": 6370.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459517+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079142+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -3997,7 +3997,7 @@
       "total_fare": 7336.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459526+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079147+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4034,7 +4034,7 @@
       "total_fare": 5787.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459536+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079153+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4071,7 +4071,7 @@
       "total_fare": 6579.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459545+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079159+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4108,7 +4108,7 @@
       "total_fare": 5606.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459553+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079165+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4145,7 +4145,7 @@
       "total_fare": 6456.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459562+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079170+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4182,7 +4182,7 @@
       "total_fare": 5129.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459571+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079176+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4219,7 +4219,7 @@
       "total_fare": 5831.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459579+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079181+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4256,7 +4256,7 @@
       "total_fare": 4969.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459587+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079187+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4293,7 +4293,7 @@
       "total_fare": 5722.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459595+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079192+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4330,7 +4330,7 @@
       "total_fare": 4603.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459605+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079198+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4367,7 +4367,7 @@
       "total_fare": 5233.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459614+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079204+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4404,7 +4404,7 @@
       "total_fare": 4459.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459622+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079209+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4441,7 +4441,7 @@
       "total_fare": 5135.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459630+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079215+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4478,7 +4478,7 @@
       "total_fare": 5177.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459645+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079225+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4515,7 +4515,7 @@
       "total_fare": 5885.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459654+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079230+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4552,7 +4552,7 @@
       "total_fare": 5015.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459663+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079238+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4589,7 +4589,7 @@
       "total_fare": 5379.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459671+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079243+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4626,7 +4626,7 @@
       "total_fare": 4855.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459681+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079250+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4663,7 +4663,7 @@
       "total_fare": 5520.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459689+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079256+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4700,7 +4700,7 @@
       "total_fare": 4704.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459698+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079261+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4737,7 +4737,7 @@
       "total_fare": 5045.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459706+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079266+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4774,7 +4774,7 @@
       "total_fare": 4013.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459716+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079274+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4811,7 +4811,7 @@
       "total_fare": 4562.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459725+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079280+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4848,7 +4848,7 @@
       "total_fare": 3887.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459734+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079286+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4885,7 +4885,7 @@
       "total_fare": 4170.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459742+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079291+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4922,7 +4922,7 @@
       "total_fare": 3531.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459752+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079297+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4959,7 +4959,7 @@
       "total_fare": 4015.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459760+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079303+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -4996,7 +4996,7 @@
       "total_fare": 3421.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459768+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079308+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5033,7 +5033,7 @@
       "total_fare": 3669.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459777+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079314+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5070,7 +5070,7 @@
       "total_fare": 3130.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459786+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079320+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5107,7 +5107,7 @@
       "total_fare": 3558.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459794+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079325+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5144,7 +5144,7 @@
       "total_fare": 3032.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459803+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079331+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5181,7 +5181,7 @@
       "total_fare": 3252.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459811+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079338+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5218,7 +5218,7 @@
       "total_fare": 2809.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459821+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079344+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5255,7 +5255,7 @@
       "total_fare": 3193.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459829+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079349+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5292,7 +5292,7 @@
       "total_fare": 2721.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459837+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079354+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5329,7 +5329,7 @@
       "total_fare": 2919.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459845+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079359+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5366,7 +5366,7 @@
       "total_fare": 9437.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459860+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079369+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5403,7 +5403,7 @@
       "total_fare": 10728.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459875+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079375+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5440,7 +5440,7 @@
       "total_fare": 9142.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459883+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079381+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5477,7 +5477,7 @@
       "total_fare": 10528.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459892+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079386+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5514,7 +5514,7 @@
       "total_fare": 8851.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459901+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079392+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5551,7 +5551,7 @@
       "total_fare": 10063.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459909+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079399+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5588,7 +5588,7 @@
       "total_fare": 8575.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459917+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079404+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5625,7 +5625,7 @@
       "total_fare": 9875.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459926+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079409+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5662,7 +5662,7 @@
       "total_fare": 7315.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459935+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079415+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5699,7 +5699,7 @@
       "total_fare": 8316.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459944+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079420+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5736,7 +5736,7 @@
       "total_fare": 7087.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459952+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079426+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5773,7 +5773,7 @@
       "total_fare": 8161.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459960+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079431+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5810,7 +5810,7 @@
       "total_fare": 6437.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459969+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079439+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5847,7 +5847,7 @@
       "total_fare": 7318.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459978+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079444+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5884,7 +5884,7 @@
       "total_fare": 6236.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459986+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079449+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5921,7 +5921,7 @@
       "total_fare": 7182.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.459994+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079454+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5958,7 +5958,7 @@
       "total_fare": 5706.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460003+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079461+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -5995,7 +5995,7 @@
       "total_fare": 6487.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460012+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079466+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6032,7 +6032,7 @@
       "total_fare": 5528.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460020+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079472+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6069,7 +6069,7 @@
       "total_fare": 6366.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460028+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079477+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6106,7 +6106,7 @@
       "total_fare": 5121.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460038+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079483+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6143,7 +6143,7 @@
       "total_fare": 5822.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460046+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079488+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6180,7 +6180,7 @@
       "total_fare": 4961.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460054+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079494+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6217,7 +6217,7 @@
       "total_fare": 5713.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460063+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079499+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6254,7 +6254,7 @@
       "total_fare": 7728.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460076+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079510+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6291,7 +6291,7 @@
       "total_fare": 8785.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460085+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079515+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6328,7 +6328,7 @@
       "total_fare": 7486.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460093+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079521+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6365,7 +6365,7 @@
       "total_fare": 8621.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460102+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079526+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6402,7 +6402,7 @@
       "total_fare": 7248.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460111+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079532+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6439,7 +6439,7 @@
       "total_fare": 8241.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460120+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079540+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6476,7 +6476,7 @@
       "total_fare": 7022.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460129+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079545+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6513,7 +6513,7 @@
       "total_fare": 8086.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460137+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079550+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6550,7 +6550,7 @@
       "total_fare": 5990.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460147+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079557+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6587,7 +6587,7 @@
       "total_fare": 6810.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460155+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079594+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6624,7 +6624,7 @@
       "total_fare": 5803.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460163+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079613+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6661,7 +6661,7 @@
       "total_fare": 6683.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460171+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079623+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6698,7 +6698,7 @@
       "total_fare": 5272.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460184+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079635+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6735,7 +6735,7 @@
       "total_fare": 5993.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460241+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079643+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6772,7 +6772,7 @@
       "total_fare": 5107.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460258+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079650+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6809,7 +6809,7 @@
       "total_fare": 5881.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460273+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079657+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6846,7 +6846,7 @@
       "total_fare": 4673.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460291+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079666+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6883,7 +6883,7 @@
       "total_fare": 5312.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460308+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079673+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6920,7 +6920,7 @@
       "total_fare": 4526.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460323+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079680+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6957,7 +6957,7 @@
       "total_fare": 5213.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460339+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079687+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -6994,7 +6994,7 @@
       "total_fare": 4193.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460358+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079694+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7031,7 +7031,7 @@
       "total_fare": 4767.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460375+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079701+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7068,7 +7068,7 @@
       "total_fare": 4062.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460388+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079712+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7105,7 +7105,7 @@
       "total_fare": 4678.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460405+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079720+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7142,7 +7142,7 @@
       "total_fare": 5424.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460432+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079740+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7179,7 +7179,7 @@
       "total_fare": 6167.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460446+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079750+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7216,7 +7216,7 @@
       "total_fare": 4992.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460461+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079758+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7253,7 +7253,7 @@
       "total_fare": 5933.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460471+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079765+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7290,7 +7290,7 @@
       "total_fare": 5088.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460481+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079774+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7327,7 +7327,7 @@
       "total_fare": 5784.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460490+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079781+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7364,7 +7364,7 @@
       "total_fare": 4682.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460499+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079788+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7401,7 +7401,7 @@
       "total_fare": 5565.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460508+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079795+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7438,7 +7438,7 @@
       "total_fare": 4205.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460517+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079803+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7475,7 +7475,7 @@
       "total_fare": 4780.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460527+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079811+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7512,7 +7512,7 @@
       "total_fare": 3870.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460535+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079818+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7549,7 +7549,7 @@
       "total_fare": 4599.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460544+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079825+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7586,7 +7586,7 @@
       "total_fare": 3700.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460554+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079833+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7623,7 +7623,7 @@
       "total_fare": 4207.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460563+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079840+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7660,7 +7660,7 @@
       "total_fare": 3405.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460574+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079847+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7697,7 +7697,7 @@
       "total_fare": 4047.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460582+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079858+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7734,7 +7734,7 @@
       "total_fare": 3280.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460592+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079868+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7771,7 +7771,7 @@
       "total_fare": 3729.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460601+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079875+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7808,7 +7808,7 @@
       "total_fare": 3018.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460609+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079882+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7845,7 +7845,7 @@
       "total_fare": 3587.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460618+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079889+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7882,7 +7882,7 @@
       "total_fare": 2943.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460627+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079897+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7919,7 +7919,7 @@
       "total_fare": 3346.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460635+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079904+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7956,7 +7956,7 @@
       "total_fare": 2709.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460643+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079911+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -7993,7 +7993,7 @@
       "total_fare": 3219.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460651+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079917+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8030,7 +8030,7 @@
       "total_fare": 7245.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460667+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079930+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8067,7 +8067,7 @@
       "total_fare": 8236.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460675+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079937+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8104,7 +8104,7 @@
       "total_fare": 7018.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460684+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079959+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8141,7 +8141,7 @@
       "total_fare": 8082.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460692+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079967+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8178,7 +8178,7 @@
       "total_fare": 6795.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460703+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079975+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8215,7 +8215,7 @@
       "total_fare": 7725.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460712+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079982+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8252,7 +8252,7 @@
       "total_fare": 6583.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460720+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079988+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8289,7 +8289,7 @@
       "total_fare": 7581.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460728+00:00",
+      "scraped_at": "2026-10-22T15:46:04.079995+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8326,7 +8326,7 @@
       "total_fare": 5616.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460737+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080005+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8363,7 +8363,7 @@
       "total_fare": 6385.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460746+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080012+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8400,7 +8400,7 @@
       "total_fare": 5440.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460754+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080019+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8437,7 +8437,7 @@
       "total_fare": 6265.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460763+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080026+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8474,7 +8474,7 @@
       "total_fare": 4942.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460772+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080034+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8511,7 +8511,7 @@
       "total_fare": 5619.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460781+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080040+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8548,7 +8548,7 @@
       "total_fare": 4788.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460789+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080047+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8585,7 +8585,7 @@
       "total_fare": 5514.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460797+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080054+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8622,7 +8622,7 @@
       "total_fare": 4380.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460807+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080061+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8659,7 +8659,7 @@
       "total_fare": 4980.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460816+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080069+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8696,7 +8696,7 @@
       "total_fare": 4244.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460824+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080076+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8733,7 +8733,7 @@
       "total_fare": 4887.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460833+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080083+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8770,7 +8770,7 @@
       "total_fare": 3931.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460842+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080091+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8807,7 +8807,7 @@
       "total_fare": 4469.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460850+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080097+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8844,7 +8844,7 @@
       "total_fare": 3808.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460858+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080104+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8881,7 +8881,7 @@
       "total_fare": 4386.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460866+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080110+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8918,7 +8918,7 @@
       "total_fare": 9313.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460881+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080123+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8955,7 +8955,7 @@
       "total_fare": 10587.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460890+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080133+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -8992,7 +8992,7 @@
       "total_fare": 9022.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460898+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080140+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9029,7 +9029,7 @@
       "total_fare": 10390.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460907+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080170+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9066,7 +9066,7 @@
       "total_fare": 8735.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460916+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080178+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9103,7 +9103,7 @@
       "total_fare": 9931.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460925+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080184+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9140,7 +9140,7 @@
       "total_fare": 8462.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460933+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080191+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9177,7 +9177,7 @@
       "total_fare": 9745.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460942+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080201+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9214,7 +9214,7 @@
       "total_fare": 7219.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460952+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080209+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9251,7 +9251,7 @@
       "total_fare": 8207.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460960+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080216+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9288,7 +9288,7 @@
       "total_fare": 6994.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460968+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080223+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9325,7 +9325,7 @@
       "total_fare": 8054.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460977+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080230+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9362,7 +9362,7 @@
       "total_fare": 6353.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460986+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080427+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9399,7 +9399,7 @@
       "total_fare": 7222.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.460995+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080438+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9436,7 +9436,7 @@
       "total_fare": 6154.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461003+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080449+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9473,7 +9473,7 @@
       "total_fare": 7087.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461012+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080463+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9510,7 +9510,7 @@
       "total_fare": 5631.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461021+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080477+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9547,7 +9547,7 @@
       "total_fare": 6402.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461029+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080489+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9584,7 +9584,7 @@
       "total_fare": 5455.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461037+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080505+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9621,7 +9621,7 @@
       "total_fare": 6282.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461046+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080519+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9658,7 +9658,7 @@
       "total_fare": 5053.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461055+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080532+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9695,7 +9695,7 @@
       "total_fare": 5745.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461065+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080543+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9732,7 +9732,7 @@
       "total_fare": 4896.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461073+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080556+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     },
@@ -9769,7 +9769,7 @@
       "total_fare": 5638.0,
       "currency": "INR",
       "source": "ixigo.com",
-      "scraped_at": "2026-10-22T13:43:06.461081+00:00",
+      "scraped_at": "2026-10-22T15:46:04.080571+00:00",
       "scraper_id": "ixigo_scraper",
       "is_outlier": false
     }

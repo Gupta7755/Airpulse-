@@ -38,7 +38,7 @@
       "total_fare": 8483.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404357+00:00",
+      "scraped_at": "2026-10-22T15:46:12.651958+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -75,7 +75,7 @@
       "total_fare": 9644.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404459+00:00",
+      "scraped_at": "2026-10-22T15:46:12.651983+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -112,7 +112,7 @@
       "total_fare": 7807.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404483+00:00",
+      "scraped_at": "2026-10-22T15:46:12.651996+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -149,7 +149,7 @@
       "total_fare": 9278.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404498+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652005+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -186,7 +186,7 @@
       "total_fare": 8743.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404512+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652014+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -223,7 +223,7 @@
       "total_fare": 8143.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404525+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652022+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -260,7 +260,7 @@
       "total_fare": 7957.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404545+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652034+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -297,7 +297,7 @@
       "total_fare": 9046.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404558+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652041+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -334,7 +334,7 @@
       "total_fare": 7323.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404570+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652049+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -371,7 +371,7 @@
       "total_fare": 8703.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404582+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652057+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -408,7 +408,7 @@
       "total_fare": 8201.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404594+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652064+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -445,7 +445,7 @@
       "total_fare": 7638.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404606+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652072+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -482,7 +482,7 @@
       "total_fare": 6576.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404621+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652081+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -519,7 +519,7 @@
       "total_fare": 7476.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404633+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652088+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -556,7 +556,7 @@
       "total_fare": 6052.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404643+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652094+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -593,7 +593,7 @@
       "total_fare": 7192.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404663+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652102+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -630,7 +630,7 @@
       "total_fare": 6777.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404675+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652109+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -667,7 +667,7 @@
       "total_fare": 6312.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404686+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652115+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -704,7 +704,7 @@
       "total_fare": 5787.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404699+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652124+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -741,7 +741,7 @@
       "total_fare": 6579.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404711+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652131+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -778,7 +778,7 @@
       "total_fare": 5326.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404721+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652138+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -815,7 +815,7 @@
       "total_fare": 6329.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404732+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652145+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -852,7 +852,7 @@
       "total_fare": 5964.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404743+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652151+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -889,7 +889,7 @@
       "total_fare": 5555.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404754+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652158+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -926,7 +926,7 @@
       "total_fare": 5129.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404767+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652166+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -963,7 +963,7 @@
       "total_fare": 5831.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404778+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652173+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1000,7 +1000,7 @@
       "total_fare": 4721.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404789+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652180+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1037,7 +1037,7 @@
       "total_fare": 5610.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404802+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652188+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1074,7 +1074,7 @@
       "total_fare": 5286.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404813+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652194+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1111,7 +1111,7 @@
       "total_fare": 4924.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404824+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652200+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1148,7 +1148,7 @@
       "total_fare": 4603.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404837+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652207+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1185,7 +1185,7 @@
       "total_fare": 5233.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404848+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652212+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1222,7 +1222,7 @@
       "total_fare": 4236.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404859+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652217+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1259,7 +1259,7 @@
       "total_fare": 5035.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404870+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652223+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1296,7 +1296,7 @@
       "total_fare": 4744.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404881+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652229+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1333,7 +1333,7 @@
       "total_fare": 4419.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404892+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652234+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1370,7 +1370,7 @@
       "total_fare": 10056.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404930+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652251+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1407,7 +1407,7 @@
       "total_fare": 11432.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404971+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652259+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1444,7 +1444,7 @@
       "total_fare": 9254.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.404984+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652265+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1481,7 +1481,7 @@
       "total_fare": 10999.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405000+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652270+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1518,7 +1518,7 @@
       "total_fare": 10364.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405015+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652276+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1555,7 +1555,7 @@
       "total_fare": 9432.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405033+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652283+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1592,7 +1592,7 @@
       "total_fare": 10723.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405049+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652289+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1629,7 +1629,7 @@
       "total_fare": 8681.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405063+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652294+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1666,7 +1666,7 @@
       "total_fare": 10316.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405078+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652300+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1703,7 +1703,7 @@
       "total_fare": 9721.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405093+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652305+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1740,7 +1740,7 @@
       "total_fare": 7795.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405109+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652312+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1777,7 +1777,7 @@
       "total_fare": 8862.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405122+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652317+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1814,7 +1814,7 @@
       "total_fare": 7174.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405136+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652322+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1851,7 +1851,7 @@
       "total_fare": 8526.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405150+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652328+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1888,7 +1888,7 @@
       "total_fare": 8034.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405163+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652334+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1925,7 +1925,7 @@
       "total_fare": 6860.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405179+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652340+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1962,7 +1962,7 @@
       "total_fare": 7799.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405193+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652346+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -1999,7 +1999,7 @@
       "total_fare": 6313.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405208+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652352+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2036,7 +2036,7 @@
       "total_fare": 7503.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405222+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652358+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2073,7 +2073,7 @@
       "total_fare": 7070.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405236+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652364+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2110,7 +2110,7 @@
       "total_fare": 6080.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405252+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652374+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2147,7 +2147,7 @@
       "total_fare": 6912.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405267+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652381+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2184,7 +2184,7 @@
       "total_fare": 5596.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405281+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652386+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2221,7 +2221,7 @@
       "total_fare": 6650.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405295+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652391+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2258,7 +2258,7 @@
       "total_fare": 6266.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405309+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652397+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2295,7 +2295,7 @@
       "total_fare": 5457.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405325+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652403+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2332,7 +2332,7 @@
       "total_fare": 6204.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405340+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652409+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2369,7 +2369,7 @@
       "total_fare": 5022.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405355+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652414+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2406,7 +2406,7 @@
       "total_fare": 5968.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405369+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652419+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2443,7 +2443,7 @@
       "total_fare": 5624.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405385+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652426+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2480,7 +2480,7 @@
       "total_fare": 6836.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405416+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652438+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2517,7 +2517,7 @@
       "total_fare": 7238.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405432+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652444+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2554,7 +2554,7 @@
       "total_fare": 6755.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405447+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652450+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2591,7 +2591,7 @@
       "total_fare": 7477.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405463+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652456+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2628,7 +2628,7 @@
       "total_fare": 7045.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405478+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652462+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2665,7 +2665,7 @@
       "total_fare": 6412.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405495+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652468+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2702,7 +2702,7 @@
       "total_fare": 6789.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405508+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652473+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2739,7 +2739,7 @@
       "total_fare": 6336.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405522+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652479+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2776,7 +2776,7 @@
       "total_fare": 7013.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405535+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652484+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2813,7 +2813,7 @@
       "total_fare": 6608.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405549+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652490+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2850,7 +2850,7 @@
       "total_fare": 5299.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405565+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652498+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2887,7 +2887,7 @@
       "total_fare": 5611.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405583+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652505+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2924,7 +2924,7 @@
       "total_fare": 5236.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405597+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652510+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2961,7 +2961,7 @@
       "total_fare": 5796.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405611+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652515+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -2998,7 +2998,7 @@
       "total_fare": 5461.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405624+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652520+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3035,7 +3035,7 @@
       "total_fare": 4663.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405640+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652526+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3072,7 +3072,7 @@
       "total_fare": 4938.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405654+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652532+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3109,7 +3109,7 @@
       "total_fare": 4608.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405668+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652537+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3146,7 +3146,7 @@
       "total_fare": 5100.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405682+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652542+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3183,7 +3183,7 @@
       "total_fare": 4806.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405697+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652548+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3220,7 +3220,7 @@
       "total_fare": 4133.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405713+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652554+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3257,7 +3257,7 @@
       "total_fare": 4377.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405727+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652559+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3294,7 +3294,7 @@
       "total_fare": 4084.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405741+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652564+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3331,7 +3331,7 @@
       "total_fare": 4521.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405755+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652570+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3368,7 +3368,7 @@
       "total_fare": 4260.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405770+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652575+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3405,7 +3405,7 @@
       "total_fare": 3709.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405786+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652582+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3442,7 +3442,7 @@
       "total_fare": 3928.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405800+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652587+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3479,7 +3479,7 @@
       "total_fare": 3665.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405816+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652595+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3516,7 +3516,7 @@
       "total_fare": 4057.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405830+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652600+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3553,7 +3553,7 @@
       "total_fare": 3823.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405844+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652606+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3590,7 +3590,7 @@
       "total_fare": 9424.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405871+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652616+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3627,7 +3627,7 @@
       "total_fare": 10714.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405886+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652622+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3664,7 +3664,7 @@
       "total_fare": 9130.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405900+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652628+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3701,7 +3701,7 @@
       "total_fare": 10514.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405915+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652634+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3738,7 +3738,7 @@
       "total_fare": 8840.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405932+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652641+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3775,7 +3775,7 @@
       "total_fare": 10050.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405947+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652647+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3812,7 +3812,7 @@
       "total_fare": 8564.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405961+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652652+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3849,7 +3849,7 @@
       "total_fare": 9862.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405975+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652657+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3886,7 +3886,7 @@
       "total_fare": 7306.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.405991+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652663+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3923,7 +3923,7 @@
       "total_fare": 8306.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406006+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652669+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3960,7 +3960,7 @@
       "total_fare": 7077.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406020+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652674+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -3997,7 +3997,7 @@
       "total_fare": 8150.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406035+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652679+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4034,7 +4034,7 @@
       "total_fare": 6429.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406053+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652686+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4071,7 +4071,7 @@
       "total_fare": 7309.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406068+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652692+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4108,7 +4108,7 @@
       "total_fare": 6228.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406083+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652698+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4145,7 +4145,7 @@
       "total_fare": 7172.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406097+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652703+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4182,7 +4182,7 @@
       "total_fare": 5698.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406114+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652709+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4219,7 +4219,7 @@
       "total_fare": 6478.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406148+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652715+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4256,7 +4256,7 @@
       "total_fare": 5520.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406164+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652720+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4293,7 +4293,7 @@
       "total_fare": 6357.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406179+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652725+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4330,7 +4330,7 @@
       "total_fare": 5114.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406196+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652731+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4367,7 +4367,7 @@
       "total_fare": 5814.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406211+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652737+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4404,7 +4404,7 @@
       "total_fare": 4954.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406225+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652742+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4441,7 +4441,7 @@
       "total_fare": 5705.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406261+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652747+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4478,7 +4478,7 @@
       "total_fare": 5882.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406289+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652758+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4515,7 +4515,7 @@
       "total_fare": 6688.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406305+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652763+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4552,7 +4552,7 @@
       "total_fare": 5699.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406320+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652771+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4589,7 +4589,7 @@
       "total_fare": 6112.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406335+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652777+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4626,7 +4626,7 @@
       "total_fare": 5518.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406352+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652783+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4663,7 +4663,7 @@
       "total_fare": 6273.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406367+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652789+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4700,7 +4700,7 @@
       "total_fare": 5345.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406381+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652795+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4737,7 +4737,7 @@
       "total_fare": 5733.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406395+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652800+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4774,7 +4774,7 @@
       "total_fare": 4560.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406412+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652806+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4811,7 +4811,7 @@
       "total_fare": 5184.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406428+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652813+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4848,7 +4848,7 @@
       "total_fare": 4418.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406443+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652818+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4885,7 +4885,7 @@
       "total_fare": 4738.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406458+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652824+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4922,7 +4922,7 @@
       "total_fare": 4013.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406479+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652830+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4959,7 +4959,7 @@
       "total_fare": 4562.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406496+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652835+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -4996,7 +4996,7 @@
       "total_fare": 3887.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406511+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652840+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5033,7 +5033,7 @@
       "total_fare": 4170.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406525+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652846+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5070,7 +5070,7 @@
       "total_fare": 3557.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406542+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652852+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5107,7 +5107,7 @@
       "total_fare": 4044.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406556+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652857+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5144,7 +5144,7 @@
       "total_fare": 3446.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406571+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652862+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5181,7 +5181,7 @@
       "total_fare": 3696.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406585+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652869+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5218,7 +5218,7 @@
       "total_fare": 3192.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406602+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652875+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5255,7 +5255,7 @@
       "total_fare": 3629.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406617+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652880+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5292,7 +5292,7 @@
       "total_fare": 3092.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406632+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652885+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5329,7 +5329,7 @@
       "total_fare": 3317.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406646+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652890+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5366,7 +5366,7 @@
       "total_fare": 10427.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406672+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652900+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5403,7 +5403,7 @@
       "total_fare": 11855.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406689+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652905+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5440,7 +5440,7 @@
       "total_fare": 10101.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406704+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652911+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5477,7 +5477,7 @@
       "total_fare": 11633.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406720+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652916+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5514,7 +5514,7 @@
       "total_fare": 9781.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406737+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652922+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5551,7 +5551,7 @@
       "total_fare": 11119.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406754+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652928+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5588,7 +5588,7 @@
       "total_fare": 9475.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406768+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652934+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5625,7 +5625,7 @@
       "total_fare": 10912.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406783+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652939+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5662,7 +5662,7 @@
       "total_fare": 8083.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406801+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652946+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5699,7 +5699,7 @@
       "total_fare": 9190.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406816+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652951+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5736,7 +5736,7 @@
       "total_fare": 7831.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406831+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652956+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5773,7 +5773,7 @@
       "total_fare": 9018.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406845+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652962+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5810,7 +5810,7 @@
       "total_fare": 7113.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406862+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652970+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5847,7 +5847,7 @@
       "total_fare": 8087.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406876+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652976+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5884,7 +5884,7 @@
       "total_fare": 6891.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406891+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652981+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5921,7 +5921,7 @@
       "total_fare": 7936.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406907+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652986+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5958,7 +5958,7 @@
       "total_fare": 6305.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406923+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652993+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -5995,7 +5995,7 @@
       "total_fare": 7168.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406938+00:00",
+      "scraped_at": "2026-10-22T15:46:12.652998+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6032,7 +6032,7 @@
       "total_fare": 6108.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406953+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653003+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6069,7 +6069,7 @@
       "total_fare": 7034.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406968+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653009+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6106,7 +6106,7 @@
       "total_fare": 5658.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.406985+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653015+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6143,7 +6143,7 @@
       "total_fare": 6433.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407000+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653021+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6180,7 +6180,7 @@
       "total_fare": 5481.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407015+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653026+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6217,7 +6217,7 @@
       "total_fare": 6312.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407030+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653031+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6254,7 +6254,7 @@
       "total_fare": 8520.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407056+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653041+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6291,7 +6291,7 @@
       "total_fare": 9686.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407072+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653047+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6328,7 +6328,7 @@
       "total_fare": 8254.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407087+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653052+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6365,7 +6365,7 @@
       "total_fare": 9505.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407099+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653058+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6402,7 +6402,7 @@
       "total_fare": 7992.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407110+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653064+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6439,7 +6439,7 @@
       "total_fare": 9086.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407120+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653072+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6476,7 +6476,7 @@
       "total_fare": 7742.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407128+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653077+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6513,7 +6513,7 @@
       "total_fare": 8916.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407136+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653086+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6550,7 +6550,7 @@
       "total_fare": 6605.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407146+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653093+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6587,7 +6587,7 @@
       "total_fare": 7509.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407155+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653099+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6624,7 +6624,7 @@
       "total_fare": 6398.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407163+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653104+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6661,7 +6661,7 @@
       "total_fare": 7368.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407171+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653109+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6698,7 +6698,7 @@
       "total_fare": 5812.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407181+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653116+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6735,7 +6735,7 @@
       "total_fare": 6608.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407189+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653121+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6772,7 +6772,7 @@
       "total_fare": 5631.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407198+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653127+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6809,7 +6809,7 @@
       "total_fare": 6484.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407206+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653132+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6846,7 +6846,7 @@
       "total_fare": 5152.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407218+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653138+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6883,7 +6883,7 @@
       "total_fare": 5857.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407226+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653143+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6920,7 +6920,7 @@
       "total_fare": 4991.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407235+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653148+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6957,7 +6957,7 @@
       "total_fare": 5747.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407243+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653153+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -6994,7 +6994,7 @@
       "total_fare": 4623.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407252+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653193+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7031,7 +7031,7 @@
       "total_fare": 5256.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407260+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653205+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7068,7 +7068,7 @@
       "total_fare": 4479.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407269+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653219+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7105,7 +7105,7 @@
       "total_fare": 5158.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407277+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653228+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7142,7 +7142,7 @@
       "total_fare": 6142.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407292+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653250+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7179,7 +7179,7 @@
       "total_fare": 6983.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407301+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653260+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7216,7 +7216,7 @@
       "total_fare": 5653.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407310+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653268+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7253,7 +7253,7 @@
       "total_fare": 6718.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407318+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653275+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7290,7 +7290,7 @@
       "total_fare": 5762.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407328+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653284+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7327,7 +7327,7 @@
       "total_fare": 6550.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407336+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653292+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7364,7 +7364,7 @@
       "total_fare": 5302.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407344+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653299+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7401,7 +7401,7 @@
       "total_fare": 6302.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407352+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653305+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7438,7 +7438,7 @@
       "total_fare": 4762.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407361+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653313+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7475,7 +7475,7 @@
       "total_fare": 5413.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407371+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653324+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7512,7 +7512,7 @@
       "total_fare": 4382.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407379+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653331+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7549,7 +7549,7 @@
       "total_fare": 5208.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407402+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653338+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7586,7 +7586,7 @@
       "total_fare": 4190.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407412+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653346+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7623,7 +7623,7 @@
       "total_fare": 4764.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407421+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653353+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7660,7 +7660,7 @@
       "total_fare": 3856.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407429+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653359+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7697,7 +7697,7 @@
       "total_fare": 4583.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407439+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653368+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7734,7 +7734,7 @@
       "total_fare": 3714.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407451+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653375+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7771,7 +7771,7 @@
       "total_fare": 4222.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407460+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653382+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7808,7 +7808,7 @@
       "total_fare": 3418.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407468+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653389+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7845,7 +7845,7 @@
       "total_fare": 4062.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407476+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653395+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7882,7 +7882,7 @@
       "total_fare": 3333.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407485+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653403+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7919,7 +7919,7 @@
       "total_fare": 3789.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407493+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653410+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7956,7 +7956,7 @@
       "total_fare": 3068.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407502+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653417+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -7993,7 +7993,7 @@
       "total_fare": 3646.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407510+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653423+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8030,7 +8030,7 @@
       "total_fare": 8025.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407525+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653437+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8067,7 +8067,7 @@
       "total_fare": 9123.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407534+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653444+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8104,7 +8104,7 @@
       "total_fare": 7774.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407542+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653451+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8141,7 +8141,7 @@
       "total_fare": 8953.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407550+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653459+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8178,7 +8178,7 @@
       "total_fare": 7527.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407560+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653467+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8215,7 +8215,7 @@
       "total_fare": 8557.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407568+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653474+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8252,7 +8252,7 @@
       "total_fare": 7292.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407576+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653482+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8289,7 +8289,7 @@
       "total_fare": 8397.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407584+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653488+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8326,7 +8326,7 @@
       "total_fare": 6221.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407593+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653498+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8363,7 +8363,7 @@
       "total_fare": 7072.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407602+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653504+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8400,7 +8400,7 @@
       "total_fare": 6026.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407610+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653511+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8437,7 +8437,7 @@
       "total_fare": 6940.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407618+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653518+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8474,7 +8474,7 @@
       "total_fare": 5474.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407627+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653567+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8511,7 +8511,7 @@
       "total_fare": 6224.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407635+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653575+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8548,7 +8548,7 @@
       "total_fare": 5303.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407644+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653581+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8585,7 +8585,7 @@
       "total_fare": 6107.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407651+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653588+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8622,7 +8622,7 @@
       "total_fare": 4852.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407660+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653612+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8659,7 +8659,7 @@
       "total_fare": 5516.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407669+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653620+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8696,7 +8696,7 @@
       "total_fare": 4701.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407678+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653627+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8733,7 +8733,7 @@
       "total_fare": 5413.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407686+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653634+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8770,7 +8770,7 @@
       "total_fare": 4355.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407695+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653644+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8807,7 +8807,7 @@
       "total_fare": 4951.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407703+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653651+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8844,7 +8844,7 @@
       "total_fare": 4218.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407711+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653658+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8881,7 +8881,7 @@
       "total_fare": 4858.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407719+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653664+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8918,7 +8918,7 @@
       "total_fare": 10303.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407733+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653679+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8955,7 +8955,7 @@
       "total_fare": 11714.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407742+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653688+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -8992,7 +8992,7 @@
       "total_fare": 9982.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407750+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653695+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9029,7 +9029,7 @@
       "total_fare": 11495.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407759+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653702+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9066,7 +9066,7 @@
       "total_fare": 9665.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407768+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653710+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9103,7 +9103,7 @@
       "total_fare": 10987.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407776+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653717+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9140,7 +9140,7 @@
       "total_fare": 9362.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407784+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653723+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9177,7 +9177,7 @@
       "total_fare": 10782.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407793+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653731+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9214,7 +9214,7 @@
       "total_fare": 7987.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407802+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653739+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9251,7 +9251,7 @@
       "total_fare": 9080.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407810+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653746+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9288,7 +9288,7 @@
       "total_fare": 7738.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407818+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653753+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9325,7 +9325,7 @@
       "total_fare": 8911.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407826+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653760+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9362,7 +9362,7 @@
       "total_fare": 7029.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407836+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653767+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9399,7 +9399,7 @@
       "total_fare": 7991.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407844+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653774+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9436,7 +9436,7 @@
       "total_fare": 6809.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407852+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653780+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9473,7 +9473,7 @@
       "total_fare": 7841.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407860+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653787+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9510,7 +9510,7 @@
       "total_fare": 6230.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407869+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653795+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9547,7 +9547,7 @@
       "total_fare": 7083.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407877+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653802+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9584,7 +9584,7 @@
       "total_fare": 6035.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407885+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653811+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9621,7 +9621,7 @@
       "total_fare": 6950.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407893+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653822+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9658,7 +9658,7 @@
       "total_fare": 5591.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407902+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653830+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9695,7 +9695,7 @@
       "total_fare": 6356.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407910+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653837+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9732,7 +9732,7 @@
       "total_fare": 5416.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407919+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653843+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     },
@@ -9769,7 +9769,7 @@
       "total_fare": 6238.0,
       "currency": "INR",
       "source": "skyscanner.co.in",
-      "scraped_at": "2026-10-22T13:43:07.407926+00:00",
+      "scraped_at": "2026-10-22T15:46:12.653850+00:00",
       "scraper_id": "skyscanner_scraper",
       "is_outlier": false
     }

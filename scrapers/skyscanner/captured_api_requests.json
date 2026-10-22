@@ -10,5 +10,11 @@
       }
     }
   ],
-  "responses": []
+  "responses": [
+    {
+      "url": "https://www.skyscanner.co.in/transport/flights/del/bom/261029/",
+      "status": 307,
+      "timestamp": "2026-10-22T15:46:09.646618+00:00"
+    }
+  ]
 }

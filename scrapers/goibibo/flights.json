@@ -38,7 +38,7 @@
       "total_fare": 8149.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943870+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033802+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -75,7 +75,7 @@
       "total_fare": 9264.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943898+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033829+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -112,7 +112,7 @@
       "total_fare": 7499.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943913+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033842+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -149,7 +149,7 @@
       "total_fare": 8913.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943923+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033851+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -186,7 +186,7 @@
       "total_fare": 8398.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943934+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033860+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -223,7 +223,7 @@
       "total_fare": 7822.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943943+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033869+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -260,7 +260,7 @@
       "total_fare": 7643.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943957+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033881+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -297,7 +297,7 @@
       "total_fare": 8690.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943967+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033890+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -334,7 +334,7 @@
       "total_fare": 7034.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943976+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033898+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -371,7 +371,7 @@
       "total_fare": 8360.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943985+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033906+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -408,7 +408,7 @@
       "total_fare": 7877.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.943994+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033913+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -445,7 +445,7 @@
       "total_fare": 7337.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944003+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033921+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -482,7 +482,7 @@
       "total_fare": 6317.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944014+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033931+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -519,7 +519,7 @@
       "total_fare": 7181.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944023+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033938+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -556,7 +556,7 @@
       "total_fare": 5813.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944031+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033945+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -593,7 +593,7 @@
       "total_fare": 6909.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944039+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033957+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -630,7 +630,7 @@
       "total_fare": 6510.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944048+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033964+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -667,7 +667,7 @@
       "total_fare": 6063.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944057+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033971+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -704,7 +704,7 @@
       "total_fare": 5559.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944067+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033980+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -741,7 +741,7 @@
       "total_fare": 6320.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944075+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033987+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -778,7 +778,7 @@
       "total_fare": 5116.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944084+00:00",
+      "scraped_at": "2026-10-22T15:46:08.033994+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -815,7 +815,7 @@
       "total_fare": 6080.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944092+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034001+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -852,7 +852,7 @@
       "total_fare": 5729.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944101+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034008+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -889,7 +889,7 @@
       "total_fare": 5336.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944109+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034016+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -926,7 +926,7 @@
       "total_fare": 4927.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944119+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034024+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -963,7 +963,7 @@
       "total_fare": 5602.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944127+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034032+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1000,7 +1000,7 @@
       "total_fare": 4534.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944135+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034039+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1037,7 +1037,7 @@
       "total_fare": 5389.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944144+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034046+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1074,7 +1074,7 @@
       "total_fare": 5078.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944152+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034053+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1111,7 +1111,7 @@
       "total_fare": 4730.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944161+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034060+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1148,7 +1148,7 @@
       "total_fare": 4422.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944170+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034069+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1185,7 +1185,7 @@
       "total_fare": 5027.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944179+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034076+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1222,7 +1222,7 @@
       "total_fare": 4069.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944187+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034083+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1259,7 +1259,7 @@
       "total_fare": 4836.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944195+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034091+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1296,7 +1296,7 @@
       "total_fare": 4557.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944203+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034097+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1333,7 +1333,7 @@
       "total_fare": 4244.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944211+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034104+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1370,7 +1370,7 @@
       "total_fare": 9560.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944238+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034123+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1407,7 +1407,7 @@
       "total_fare": 10869.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944251+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034130+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1444,7 +1444,7 @@
       "total_fare": 8799.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944259+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034136+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1481,7 +1481,7 @@
       "total_fare": 10457.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944268+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034142+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1518,7 +1518,7 @@
       "total_fare": 9853.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944277+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034148+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1555,7 +1555,7 @@
       "total_fare": 8968.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944288+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034155+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1592,7 +1592,7 @@
       "total_fare": 10195.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944296+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034161+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1629,7 +1629,7 @@
       "total_fare": 8253.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944305+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034167+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1666,7 +1666,7 @@
       "total_fare": 9808.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944313+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034172+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1703,7 +1703,7 @@
       "total_fare": 9242.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944321+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034178+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1740,7 +1740,7 @@
       "total_fare": 7411.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944330+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034185+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1777,7 +1777,7 @@
       "total_fare": 8426.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944339+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034190+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1814,7 +1814,7 @@
       "total_fare": 6821.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944347+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034196+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1851,7 +1851,7 @@
       "total_fare": 8106.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944355+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034201+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1888,7 +1888,7 @@
       "total_fare": 7638.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944363+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034207+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1925,7 +1925,7 @@
       "total_fare": 6522.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944373+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034213+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1962,7 +1962,7 @@
       "total_fare": 7415.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944381+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034219+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -1999,7 +1999,7 @@
       "total_fare": 6002.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944390+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034225+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2036,7 +2036,7 @@
       "total_fare": 7133.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944398+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034230+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2073,7 +2073,7 @@
       "total_fare": 6722.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944407+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034235+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2110,7 +2110,7 @@
       "total_fare": 5781.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944417+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034242+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2147,7 +2147,7 @@
       "total_fare": 6572.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944425+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034248+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2184,7 +2184,7 @@
       "total_fare": 5320.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944434+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034254+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2221,7 +2221,7 @@
       "total_fare": 6323.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944442+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034260+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2258,7 +2258,7 @@
       "total_fare": 5958.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944450+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034265+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2295,7 +2295,7 @@
       "total_fare": 5188.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944460+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034272+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2332,7 +2332,7 @@
       "total_fare": 5898.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944468+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034278+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2369,7 +2369,7 @@
       "total_fare": 4774.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944477+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034283+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2406,7 +2406,7 @@
       "total_fare": 5674.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944485+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034289+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2443,7 +2443,7 @@
       "total_fare": 5347.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944494+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034295+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2480,7 +2480,7 @@
       "total_fare": 6452.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944512+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034307+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2517,7 +2517,7 @@
       "total_fare": 6832.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944522+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034313+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2554,7 +2554,7 @@
       "total_fare": 6375.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944531+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034319+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2591,7 +2591,7 @@
       "total_fare": 7057.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944539+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034325+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2628,7 +2628,7 @@
       "total_fare": 6650.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944548+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034332+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2665,7 +2665,7 @@
       "total_fare": 6052.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944558+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034339+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2702,7 +2702,7 @@
       "total_fare": 6408.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944566+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034345+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2739,7 +2739,7 @@
       "total_fare": 5980.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944574+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034350+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2776,7 +2776,7 @@
       "total_fare": 6619.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944583+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034357+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2813,7 +2813,7 @@
       "total_fare": 6237.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944591+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034362+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2850,7 +2850,7 @@
       "total_fare": 5002.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944600+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034369+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2887,7 +2887,7 @@
       "total_fare": 5296.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944615+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034377+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2924,7 +2924,7 @@
       "total_fare": 4942.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944623+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034383+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2961,7 +2961,7 @@
       "total_fare": 5470.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944632+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034388+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -2998,7 +2998,7 @@
       "total_fare": 5155.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944641+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034394+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3035,7 +3035,7 @@
       "total_fare": 4401.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944650+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034400+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3072,7 +3072,7 @@
       "total_fare": 4660.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944659+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034406+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3109,7 +3109,7 @@
       "total_fare": 4349.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944667+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034412+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3146,7 +3146,7 @@
       "total_fare": 4814.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944675+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034418+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3183,7 +3183,7 @@
       "total_fare": 4536.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944684+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034423+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3220,7 +3220,7 @@
       "total_fare": 3901.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944694+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034429+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3257,7 +3257,7 @@
       "total_fare": 4131.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944702+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034435+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3294,7 +3294,7 @@
       "total_fare": 3855.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944711+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034441+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3331,7 +3331,7 @@
       "total_fare": 4267.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944719+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034447+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3368,7 +3368,7 @@
       "total_fare": 4021.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944727+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034452+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3405,7 +3405,7 @@
       "total_fare": 3501.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944737+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034459+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3442,7 +3442,7 @@
       "total_fare": 3707.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944745+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034464+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3479,7 +3479,7 @@
       "total_fare": 3460.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944754+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034471+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3516,7 +3516,7 @@
       "total_fare": 3829.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944762+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034476+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3553,7 +3553,7 @@
       "total_fare": 3608.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944771+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034482+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3590,7 +3590,7 @@
       "total_fare": 8892.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944787+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034493+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3627,7 +3627,7 @@
       "total_fare": 10109.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944805+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034507+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3664,7 +3664,7 @@
       "total_fare": 8614.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944814+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034513+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3701,7 +3701,7 @@
       "total_fare": 9920.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944825+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034519+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3738,7 +3738,7 @@
       "total_fare": 8340.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944846+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034527+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3775,7 +3775,7 @@
       "total_fare": 9482.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944859+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034534+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3812,7 +3812,7 @@
       "total_fare": 8080.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944868+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034539+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3849,7 +3849,7 @@
       "total_fare": 9305.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944877+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034545+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3886,7 +3886,7 @@
       "total_fare": 6893.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944886+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034552+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3923,7 +3923,7 @@
       "total_fare": 7836.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944895+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034557+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3960,7 +3960,7 @@
       "total_fare": 6677.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944903+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034563+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -3997,7 +3997,7 @@
       "total_fare": 7690.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944911+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034568+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4034,7 +4034,7 @@
       "total_fare": 6066.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944921+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034575+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4071,7 +4071,7 @@
       "total_fare": 6896.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944931+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034582+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4108,7 +4108,7 @@
       "total_fare": 5876.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944939+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034587+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4145,7 +4145,7 @@
       "total_fare": 6767.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944947+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034593+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4182,7 +4182,7 @@
       "total_fare": 5376.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944956+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034600+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4219,7 +4219,7 @@
       "total_fare": 6112.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944965+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034605+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4256,7 +4256,7 @@
       "total_fare": 5208.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944973+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034611+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4293,7 +4293,7 @@
       "total_fare": 5998.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944981+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034616+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4330,7 +4330,7 @@
       "total_fare": 4825.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944991+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034623+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4367,7 +4367,7 @@
       "total_fare": 5485.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.944999+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034631+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4404,7 +4404,7 @@
       "total_fare": 4674.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945009+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034636+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4441,7 +4441,7 @@
       "total_fare": 5383.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945045+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034642+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4478,7 +4478,7 @@
       "total_fare": 5474.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945077+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034653+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4515,7 +4515,7 @@
       "total_fare": 6223.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945097+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034659+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4552,7 +4552,7 @@
       "total_fare": 5303.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945108+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034664+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4589,7 +4589,7 @@
       "total_fare": 5688.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945117+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034670+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4626,7 +4626,7 @@
       "total_fare": 5134.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945127+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034677+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4663,7 +4663,7 @@
       "total_fare": 5837.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945136+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034685+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4700,7 +4700,7 @@
       "total_fare": 4974.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945144+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034691+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4737,7 +4737,7 @@
       "total_fare": 5335.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945154+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034696+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4774,7 +4774,7 @@
       "total_fare": 4243.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945167+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034703+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4811,7 +4811,7 @@
       "total_fare": 4824.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945178+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034709+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4848,7 +4848,7 @@
       "total_fare": 4111.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945187+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034715+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4885,7 +4885,7 @@
       "total_fare": 4409.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945195+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034720+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4922,7 +4922,7 @@
       "total_fare": 3734.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945204+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034727+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4959,7 +4959,7 @@
       "total_fare": 4245.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945213+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034732+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -4996,7 +4996,7 @@
       "total_fare": 3617.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945221+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034739+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5033,7 +5033,7 @@
       "total_fare": 3880.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945229+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034745+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5070,7 +5070,7 @@
       "total_fare": 3310.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945238+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034753+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5107,7 +5107,7 @@
       "total_fare": 3763.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945247+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034759+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5144,7 +5144,7 @@
       "total_fare": 3206.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945255+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034764+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5181,7 +5181,7 @@
       "total_fare": 3439.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945263+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034769+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5218,7 +5218,7 @@
       "total_fare": 2970.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945272+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034776+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5255,7 +5255,7 @@
       "total_fare": 3377.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945280+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034781+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5292,7 +5292,7 @@
       "total_fare": 2877.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945289+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034787+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5329,7 +5329,7 @@
       "total_fare": 3086.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945296+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034792+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5366,7 +5366,7 @@
       "total_fare": 9882.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945312+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034802+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5403,7 +5403,7 @@
       "total_fare": 11235.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945321+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034808+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5440,7 +5440,7 @@
       "total_fare": 9574.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945329+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034813+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5477,7 +5477,7 @@
       "total_fare": 11025.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945338+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034819+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5514,7 +5514,7 @@
       "total_fare": 9270.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945347+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034826+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5551,7 +5551,7 @@
       "total_fare": 10538.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945356+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034832+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5588,7 +5588,7 @@
       "total_fare": 8980.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945364+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034838+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5625,7 +5625,7 @@
       "total_fare": 10341.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945372+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034845+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5662,7 +5662,7 @@
       "total_fare": 7661.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945381+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034851+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5699,7 +5699,7 @@
       "total_fare": 8709.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945389+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034857+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5736,7 +5736,7 @@
       "total_fare": 7421.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945398+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034862+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5773,7 +5773,7 @@
       "total_fare": 8547.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945406+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034867+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5810,7 +5810,7 @@
       "total_fare": 6742.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945415+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034874+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5847,7 +5847,7 @@
       "total_fare": 7664.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945423+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034879+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5884,7 +5884,7 @@
       "total_fare": 6531.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945431+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034885+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5921,7 +5921,7 @@
       "total_fare": 7521.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945439+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034890+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5958,7 +5958,7 @@
       "total_fare": 5975.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945448+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034897+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -5995,7 +5995,7 @@
       "total_fare": 6793.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945456+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034902+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6032,7 +6032,7 @@
       "total_fare": 5789.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945464+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034907+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6069,7 +6069,7 @@
       "total_fare": 6666.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945473+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034913+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6106,7 +6106,7 @@
       "total_fare": 5363.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945482+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034919+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6143,7 +6143,7 @@
       "total_fare": 6097.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945490+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034925+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6180,7 +6180,7 @@
       "total_fare": 5195.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945498+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034930+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6217,7 +6217,7 @@
       "total_fare": 5983.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945507+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034935+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6254,7 +6254,7 @@
       "total_fare": 8037.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945521+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034946+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6291,7 +6291,7 @@
       "total_fare": 9137.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945530+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034952+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6328,7 +6328,7 @@
       "total_fare": 7786.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945539+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034958+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6365,7 +6365,7 @@
       "total_fare": 8967.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945548+00:00",
+      "scraped_at": "2026-10-22T15:46:08.034997+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6402,7 +6402,7 @@
       "total_fare": 7539.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945557+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035013+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6439,7 +6439,7 @@
       "total_fare": 8571.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945566+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035022+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6476,7 +6476,7 @@
       "total_fare": 7303.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945575+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035029+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6513,7 +6513,7 @@
       "total_fare": 8410.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945583+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035035+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6550,7 +6550,7 @@
       "total_fare": 6230.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945592+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035047+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6587,7 +6587,7 @@
       "total_fare": 7083.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945601+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035053+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6624,7 +6624,7 @@
       "total_fare": 6036.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945609+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035059+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6661,7 +6661,7 @@
       "total_fare": 6951.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945617+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035065+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6698,7 +6698,7 @@
       "total_fare": 5483.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945626+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035072+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6735,7 +6735,7 @@
       "total_fare": 6233.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945635+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035078+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6772,7 +6772,7 @@
       "total_fare": 5311.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945643+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035084+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6809,7 +6809,7 @@
       "total_fare": 6117.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945651+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035089+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6846,7 +6846,7 @@
       "total_fare": 4860.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945661+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035096+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6883,7 +6883,7 @@
       "total_fare": 5525.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945670+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035104+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6920,7 +6920,7 @@
       "total_fare": 4708.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945678+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035110+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6957,7 +6957,7 @@
       "total_fare": 5422.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945686+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035116+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -6994,7 +6994,7 @@
       "total_fare": 4361.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945695+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035124+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7031,7 +7031,7 @@
       "total_fare": 4958.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945704+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035131+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7068,7 +7068,7 @@
       "total_fare": 4225.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945712+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035138+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7105,7 +7105,7 @@
       "total_fare": 4866.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945720+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035145+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7142,7 +7142,7 @@
       "total_fare": 5721.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945735+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035167+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7179,7 +7179,7 @@
       "total_fare": 6505.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945745+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035177+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7216,7 +7216,7 @@
       "total_fare": 5265.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945753+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035185+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7253,7 +7253,7 @@
       "total_fare": 6258.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945761+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035192+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7290,7 +7290,7 @@
       "total_fare": 5367.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945771+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035201+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7327,7 +7327,7 @@
       "total_fare": 6101.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945779+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035209+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7364,7 +7364,7 @@
       "total_fare": 4939.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945787+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035216+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7401,7 +7401,7 @@
       "total_fare": 5870.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945803+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035223+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7438,7 +7438,7 @@
       "total_fare": 4435.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945813+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035231+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7475,7 +7475,7 @@
       "total_fare": 5042.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945822+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035239+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7512,7 +7512,7 @@
       "total_fare": 4082.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945831+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035248+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7549,7 +7549,7 @@
       "total_fare": 4851.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945843+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035256+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7586,7 +7586,7 @@
       "total_fare": 3903.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945852+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035264+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7623,7 +7623,7 @@
       "total_fare": 4437.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945861+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035271+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7660,7 +7660,7 @@
       "total_fare": 3592.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945871+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035278+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7697,7 +7697,7 @@
       "total_fare": 4269.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945880+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035285+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7734,7 +7734,7 @@
       "total_fare": 3459.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945889+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035294+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7771,7 +7771,7 @@
       "total_fare": 3933.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945897+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035305+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7808,7 +7808,7 @@
       "total_fare": 3184.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945905+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035312+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7845,7 +7845,7 @@
       "total_fare": 3784.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945914+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035319+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7882,7 +7882,7 @@
       "total_fare": 3105.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945924+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035327+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7919,7 +7919,7 @@
       "total_fare": 3530.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945932+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035334+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7956,7 +7956,7 @@
       "total_fare": 2857.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945940+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035341+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -7993,7 +7993,7 @@
       "total_fare": 3396.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945948+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035350+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8030,7 +8030,7 @@
       "total_fare": 7554.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945963+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035365+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8067,7 +8067,7 @@
       "total_fare": 8588.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945972+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035372+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8104,7 +8104,7 @@
       "total_fare": 7318.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945980+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035379+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8141,7 +8141,7 @@
       "total_fare": 8428.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945989+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035389+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8178,7 +8178,7 @@
       "total_fare": 7086.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.945998+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035397+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8215,7 +8215,7 @@
       "total_fare": 8056.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946007+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035404+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8252,7 +8252,7 @@
       "total_fare": 6864.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946015+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035411+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8289,7 +8289,7 @@
       "total_fare": 7905.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946023+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035418+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8326,7 +8326,7 @@
       "total_fare": 5856.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946032+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035426+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8363,7 +8363,7 @@
       "total_fare": 6658.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946040+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035434+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8400,7 +8400,7 @@
       "total_fare": 5673.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946048+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035440+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8437,7 +8437,7 @@
       "total_fare": 6533.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946056+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035447+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8474,7 +8474,7 @@
       "total_fare": 5153.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946065+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035463+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8511,7 +8511,7 @@
       "total_fare": 5859.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946073+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035470+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8548,7 +8548,7 @@
       "total_fare": 4992.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946081+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035477+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8585,7 +8585,7 @@
       "total_fare": 5749.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946094+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035484+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8622,7 +8622,7 @@
       "total_fare": 4568.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946113+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035492+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8659,7 +8659,7 @@
       "total_fare": 5193.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946123+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035499+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8696,7 +8696,7 @@
       "total_fare": 4425.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946132+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035506+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8733,7 +8733,7 @@
       "total_fare": 5096.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946140+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035513+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8770,7 +8770,7 @@
       "total_fare": 4099.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946150+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035523+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8807,7 +8807,7 @@
       "total_fare": 4660.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946158+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035531+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8844,7 +8844,7 @@
       "total_fare": 3971.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946166+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035538+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8881,7 +8881,7 @@
       "total_fare": 4573.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946174+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035545+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8918,7 +8918,7 @@
       "total_fare": 9771.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946200+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035559+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8955,7 +8955,7 @@
       "total_fare": 11108.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946209+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035567+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -8992,7 +8992,7 @@
       "total_fare": 9466.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946218+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035574+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9029,7 +9029,7 @@
       "total_fare": 10901.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946226+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035581+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9066,7 +9066,7 @@
       "total_fare": 9165.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946235+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035590+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9103,7 +9103,7 @@
       "total_fare": 10419.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946244+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035597+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9140,7 +9140,7 @@
       "total_fare": 8879.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946252+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035603+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9177,7 +9177,7 @@
       "total_fare": 10225.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946261+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035611+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9214,7 +9214,7 @@
       "total_fare": 7574.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946270+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035620+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9251,7 +9251,7 @@
       "total_fare": 8611.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946278+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035627+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9288,7 +9288,7 @@
       "total_fare": 7338.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946286+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035634+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9325,7 +9325,7 @@
       "total_fare": 8450.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946295+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035641+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9362,7 +9362,7 @@
       "total_fare": 6665.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946304+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035649+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9399,7 +9399,7 @@
       "total_fare": 7578.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946312+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035657+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9436,7 +9436,7 @@
       "total_fare": 6457.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946320+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035664+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9473,7 +9473,7 @@
       "total_fare": 7436.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946328+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035673+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9510,7 +9510,7 @@
       "total_fare": 5908.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946337+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035681+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9547,7 +9547,7 @@
       "total_fare": 6717.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946346+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035689+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9584,7 +9584,7 @@
       "total_fare": 5723.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946354+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035696+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9621,7 +9621,7 @@
       "total_fare": 6591.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946362+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035703+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9658,7 +9658,7 @@
       "total_fare": 5302.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946371+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035711+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9695,7 +9695,7 @@
       "total_fare": 6028.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946380+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035718+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9732,7 +9732,7 @@
       "total_fare": 5136.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946388+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035724+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     },
@@ -9769,7 +9769,7 @@
       "total_fare": 5915.0,
       "currency": "INR",
       "source": "goibibo.com",
-      "scraped_at": "2026-10-22T13:43:06.946396+00:00",
+      "scraped_at": "2026-10-22T15:46:08.035731+00:00",
       "scraper_id": "goibibo_scraper",
       "is_outlier": false
     }

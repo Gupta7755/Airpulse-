@@ -3,7 +3,7 @@
   "airline_code": "MMT",
   "requests": [
     {
-      "url": "https://www.makemytrip.com/flight/search?itinerary=DEL-BOM-20/09/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E&lang=eng",
+      "url": "https://www.makemytrip.com/flight/search?itinerary=DEL-BOM-29/10/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E&lang=eng",
       "method": "GET",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -13,9 +13,9 @@
   ],
   "responses": [
     {
-      "url": "https://www.makemytrip.com/flight/search?itinerary=DEL-BOM-20/09/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinCla",
+      "url": "https://www.makemytrip.com/flight/search?itinerary=DEL-BOM-29/10/2026&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinCla",
       "status": 200,
-      "timestamp": "2026-09-13T18:06:55.272607+00:00"
+      "timestamp": "2026-10-22T15:45:46.449327+00:00"
     }
   ]
 }

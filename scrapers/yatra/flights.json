@@ -38,7 +38,7 @@
       "total_fare": 7912,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494043+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735372+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -75,7 +75,7 @@
       "total_fare": 9602,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494078+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735407+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -112,7 +112,7 @@
       "total_fare": 7795,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494098+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735423+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -149,7 +149,7 @@
       "total_fare": 9300,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494112+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735436+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -186,7 +186,7 @@
       "total_fare": 8603,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494126+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735448+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -223,7 +223,7 @@
       "total_fare": 7973,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494138+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735457+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -260,7 +260,7 @@
       "total_fare": 7558,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494157+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735470+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -297,7 +297,7 @@
       "total_fare": 9171,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494169+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735479+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -334,7 +334,7 @@
       "total_fare": 7446,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494180+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735487+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -371,7 +371,7 @@
       "total_fare": 8884,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494191+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735501+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -408,7 +408,7 @@
       "total_fare": 8217,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494203+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735509+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -445,7 +445,7 @@
       "total_fare": 7615,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494214+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735518+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -482,7 +482,7 @@
       "total_fare": 5904,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494228+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735529+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -519,7 +519,7 @@
       "total_fare": 7165,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494240+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735537+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -556,7 +556,7 @@
       "total_fare": 5817,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494250+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735545+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -593,7 +593,7 @@
       "total_fare": 6940,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494293+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735553+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -630,7 +630,7 @@
       "total_fare": 6419,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494305+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735560+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -667,7 +667,7 @@
       "total_fare": 5950,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494317+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735568+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -704,7 +704,7 @@
       "total_fare": 5373,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494330+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735577+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -741,7 +741,7 @@
       "total_fare": 6520,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494341+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735584+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -778,7 +778,7 @@
       "total_fare": 5293,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494351+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735591+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -815,7 +815,7 @@
       "total_fare": 6315,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494362+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735599+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -852,7 +852,7 @@
       "total_fare": 5842,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494373+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735606+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -889,7 +889,7 @@
       "total_fare": 5414,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494383+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735613+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -926,7 +926,7 @@
       "total_fare": 4782,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494396+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735622+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -963,7 +963,7 @@
       "total_fare": 5804,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494407+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735630+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1000,7 +1000,7 @@
       "total_fare": 4712,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494418+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735640+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1037,7 +1037,7 @@
       "total_fare": 5621,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494429+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735647+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1074,7 +1074,7 @@
       "total_fare": 5200,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494440+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735655+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1111,7 +1111,7 @@
       "total_fare": 4819,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494450+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735662+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1148,7 +1148,7 @@
       "total_fare": 4310,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494463+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735671+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1185,7 +1185,7 @@
       "total_fare": 5230,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494473+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735679+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1222,7 +1222,7 @@
       "total_fare": 4247,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494484+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735686+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1259,7 +1259,7 @@
       "total_fare": 5066,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494552+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735694+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1296,7 +1296,7 @@
       "total_fare": 4686,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494579+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735701+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1333,7 +1333,7 @@
       "total_fare": 4344,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494600+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735708+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1370,7 +1370,7 @@
       "total_fare": 9051,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494642+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735728+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1407,7 +1407,7 @@
       "total_fare": 10196,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494664+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735737+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1444,7 +1444,7 @@
       "total_fare": 8804,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494685+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735745+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1481,7 +1481,7 @@
       "total_fare": 10120,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494705+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735753+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1518,7 +1518,7 @@
       "total_fare": 9716,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494724+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735761+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1555,7 +1555,7 @@
       "total_fare": 8645,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494767+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735769+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1592,7 +1592,7 @@
       "total_fare": 9738,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494786+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735777+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1629,7 +1629,7 @@
       "total_fare": 8409,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494804+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735786+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1666,7 +1666,7 @@
       "total_fare": 9668,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494824+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735793+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1703,7 +1703,7 @@
       "total_fare": 9281,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494844+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735800+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1740,7 +1740,7 @@
       "total_fare": 6754,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494864+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735808+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1777,7 +1777,7 @@
       "total_fare": 7609,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494895+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735815+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1814,7 +1814,7 @@
       "total_fare": 6570,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494934+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735823+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1851,7 +1851,7 @@
       "total_fare": 7553,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494957+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735830+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1888,7 +1888,7 @@
       "total_fare": 7251,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.494982+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735838+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1925,7 +1925,7 @@
       "total_fare": 6146,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495009+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735846+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1962,7 +1962,7 @@
       "total_fare": 6923,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495034+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735853+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -1999,7 +1999,7 @@
       "total_fare": 5978,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495047+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735861+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2036,7 +2036,7 @@
       "total_fare": 6873,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495058+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735869+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2073,7 +2073,7 @@
       "total_fare": 6599,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495069+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735876+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2110,7 +2110,7 @@
       "total_fare": 5471,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495082+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735884+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2147,7 +2147,7 @@
       "total_fare": 6163,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495095+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735892+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2184,7 +2184,7 @@
       "total_fare": 5322,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495106+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735900+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2221,7 +2221,7 @@
       "total_fare": 6117,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495120+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735906+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2258,7 +2258,7 @@
       "total_fare": 5873,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495134+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735916+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2295,7 +2295,7 @@
       "total_fare": 4931,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495155+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735925+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2332,7 +2332,7 @@
       "total_fare": 5555,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495166+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735933+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2369,7 +2369,7 @@
       "total_fare": 4795,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495176+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735940+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2406,7 +2406,7 @@
       "total_fare": 5513,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495187+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735948+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2443,7 +2443,7 @@
       "total_fare": 5293,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495198+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735957+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2480,7 +2480,7 @@
       "total_fare": 6321,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495221+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735972+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2517,7 +2517,7 @@
       "total_fare": 7386,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495233+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735981+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2554,7 +2554,7 @@
       "total_fare": 5800,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495245+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735989+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2591,7 +2591,7 @@
       "total_fare": 6920,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495256+00:00",
+      "scraped_at": "2026-10-22T15:45:54.735996+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2628,7 +2628,7 @@
       "total_fare": 6037,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495268+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736004+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2665,7 +2665,7 @@
       "total_fare": 7055,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495279+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736012+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2702,7 +2702,7 @@
       "total_fare": 5540,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495289+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736019+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2739,7 +2739,7 @@
       "total_fare": 6611,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495299+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736026+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2776,7 +2776,7 @@
       "total_fare": 4717,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495312+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736035+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2813,7 +2813,7 @@
       "total_fare": 5512,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495322+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736042+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2850,7 +2850,7 @@
       "total_fare": 4328,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495333+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736050+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2887,7 +2887,7 @@
       "total_fare": 5164,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495345+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736063+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2924,7 +2924,7 @@
       "total_fare": 4293,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495357+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736071+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2961,7 +2961,7 @@
       "total_fare": 5016,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495367+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736079+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -2998,7 +2998,7 @@
       "total_fare": 3938,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495377+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736087+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3035,7 +3035,7 @@
       "total_fare": 4700,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495387+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736094+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3072,7 +3072,7 @@
       "total_fare": 3821,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495399+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736102+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3109,7 +3109,7 @@
       "total_fare": 4464,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495410+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736118+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3146,7 +3146,7 @@
       "total_fare": 3506,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495421+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736126+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3183,7 +3183,7 @@
       "total_fare": 4183,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495431+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736133+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3220,7 +3220,7 @@
       "total_fare": 3443,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495443+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736142+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3257,7 +3257,7 @@
       "total_fare": 4023,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495453+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736149+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3294,7 +3294,7 @@
       "total_fare": 3159,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495465+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736156+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3331,7 +3331,7 @@
       "total_fare": 3770,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495475+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736163+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3368,7 +3368,7 @@
       "total_fare": 8362,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495505+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736177+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3405,7 +3405,7 @@
       "total_fare": 10010,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495518+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736185+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3442,7 +3442,7 @@
       "total_fare": 8343,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495529+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736193+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3479,7 +3479,7 @@
       "total_fare": 9801,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495541+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736201+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3516,7 +3516,7 @@
       "total_fare": 7987,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495554+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736211+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3553,7 +3553,7 @@
       "total_fare": 9562,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495565+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736218+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3590,7 +3590,7 @@
       "total_fare": 7969,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495576+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736226+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3627,7 +3627,7 @@
       "total_fare": 9362,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495587+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736233+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3664,7 +3664,7 @@
       "total_fare": 6240,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495628+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736241+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3701,7 +3701,7 @@
       "total_fare": 7470,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495641+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736248+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3738,7 +3738,7 @@
       "total_fare": 6226,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495655+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736255+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3775,7 +3775,7 @@
       "total_fare": 7315,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495668+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736263+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3812,7 +3812,7 @@
       "total_fare": 5679,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495681+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736273+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3849,7 +3849,7 @@
       "total_fare": 6798,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495693+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736281+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3886,7 +3886,7 @@
       "total_fare": 5666,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495704+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736288+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3923,7 +3923,7 @@
       "total_fare": 6656,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495715+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736295+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3960,7 +3960,7 @@
       "total_fare": 5055,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495727+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736303+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -3997,7 +3997,7 @@
       "total_fare": 6051,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495739+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736310+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4034,7 +4034,7 @@
       "total_fare": 5044,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495749+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736317+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4071,7 +4071,7 @@
       "total_fare": 5925,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495761+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736325+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4108,7 +4108,7 @@
       "total_fare": 4555,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495778+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736333+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4145,7 +4145,7 @@
       "total_fare": 5453,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495791+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736342+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4182,7 +4182,7 @@
       "total_fare": 4545,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495804+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736349+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4219,7 +4219,7 @@
       "total_fare": 5340,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495816+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736356+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4256,7 +4256,7 @@
       "total_fare": 5324,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495835+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736369+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4293,7 +4293,7 @@
       "total_fare": 6318,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495846+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736377+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4330,7 +4330,7 @@
       "total_fare": 5022,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495856+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736422+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4367,7 +4367,7 @@
       "total_fare": 5884,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495867+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736450+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4404,7 +4404,7 @@
       "total_fare": 5085,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495879+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736469+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4441,7 +4441,7 @@
       "total_fare": 6035,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495890+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736482+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4478,7 +4478,7 @@
       "total_fare": 4797,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495901+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736494+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4515,7 +4515,7 @@
       "total_fare": 5620,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495912+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736504+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4552,7 +4552,7 @@
       "total_fare": 3973,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495924+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736516+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4589,7 +4589,7 @@
       "total_fare": 4715,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495935+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736525+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4626,7 +4626,7 @@
       "total_fare": 3748,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495945+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736534+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4663,7 +4663,7 @@
       "total_fare": 4391,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495956+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736543+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4700,7 +4700,7 @@
       "total_fare": 3615,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495967+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736553+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4737,7 +4737,7 @@
       "total_fare": 4291,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495978+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736562+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4774,7 +4774,7 @@
       "total_fare": 3410,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.495988+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736575+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4811,7 +4811,7 @@
       "total_fare": 3996,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496000+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736587+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4848,7 +4848,7 @@
       "total_fare": 3218,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496011+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736598+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4885,7 +4885,7 @@
       "total_fare": 3819,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496022+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736608+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4922,7 +4922,7 @@
       "total_fare": 3036,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496033+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736617+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4959,7 +4959,7 @@
       "total_fare": 3556,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496043+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736626+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -4996,7 +4996,7 @@
       "total_fare": 2900,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496054+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736637+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5033,7 +5033,7 @@
       "total_fare": 3442,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496065+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736647+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5070,7 +5070,7 @@
       "total_fare": 2736,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496081+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736655+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5107,7 +5107,7 @@
       "total_fare": 3205,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496093+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736664+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5144,7 +5144,7 @@
       "total_fare": 9930,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496110+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736687+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5181,7 +5181,7 @@
       "total_fare": 11322,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496122+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736698+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5218,7 +5218,7 @@
       "total_fare": 9145,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496133+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736708+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5255,7 +5255,7 @@
       "total_fare": 10488,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496144+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736720+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5292,7 +5292,7 @@
       "total_fare": 9485,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496156+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736731+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5329,7 +5329,7 @@
       "total_fare": 10816,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496167+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736740+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5366,7 +5366,7 @@
       "total_fare": 8735,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496178+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736749+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5403,7 +5403,7 @@
       "total_fare": 10018,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496188+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736760+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5440,7 +5440,7 @@
       "total_fare": 7411,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496200+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736770+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5477,7 +5477,7 @@
       "total_fare": 8450,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496210+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736780+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5514,7 +5514,7 @@
       "total_fare": 6824,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496220+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736788+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5551,7 +5551,7 @@
       "total_fare": 7827,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496231+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736798+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5588,7 +5588,7 @@
       "total_fare": 6744,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496243+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736808+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5625,7 +5625,7 @@
       "total_fare": 7689,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496253+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736817+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5662,7 +5662,7 @@
       "total_fare": 6210,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496264+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736825+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5699,7 +5699,7 @@
       "total_fare": 7122,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496274+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736834+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5736,7 +5736,7 @@
       "total_fare": 6002,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496286+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736844+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5773,7 +5773,7 @@
       "total_fare": 6844,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496296+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736852+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5810,7 +5810,7 @@
       "total_fare": 5528,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496307+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736862+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5847,7 +5847,7 @@
       "total_fare": 6340,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496317+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736871+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5884,7 +5884,7 @@
       "total_fare": 5410,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496328+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736881+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5921,7 +5921,7 @@
       "total_fare": 6168,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496339+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736890+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5958,7 +5958,7 @@
       "total_fare": 4982,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496349+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736899+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -5995,7 +5995,7 @@
       "total_fare": 5713,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496360+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736907+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6032,7 +6032,7 @@
       "total_fare": 8046,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496377+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736926+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6069,7 +6069,7 @@
       "total_fare": 8977,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496389+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736936+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6106,7 +6106,7 @@
       "total_fare": 7462,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496399+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736946+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6143,7 +6143,7 @@
       "total_fare": 8180,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496411+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736965+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6180,7 +6180,7 @@
       "total_fare": 7685,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496423+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736976+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6217,7 +6217,7 @@
       "total_fare": 8576,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496434+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736985+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6254,7 +6254,7 @@
       "total_fare": 7129,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496445+00:00",
+      "scraped_at": "2026-10-22T15:45:54.736994+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6291,7 +6291,7 @@
       "total_fare": 7814,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496456+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737003+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6328,7 +6328,7 @@
       "total_fare": 6004,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496468+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737013+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6365,7 +6365,7 @@
       "total_fare": 6699,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496479+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737022+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6402,7 +6402,7 @@
       "total_fare": 5569,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496490+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737031+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6439,7 +6439,7 @@
       "total_fare": 6105,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496516+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737041+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6476,7 +6476,7 @@
       "total_fare": 5464,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496529+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737051+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6513,7 +6513,7 @@
       "total_fare": 6096,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496541+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737059+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6550,7 +6550,7 @@
       "total_fare": 5068,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496551+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737068+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6587,7 +6587,7 @@
       "total_fare": 5556,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496562+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737077+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6624,7 +6624,7 @@
       "total_fare": 4864,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496574+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737089+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6661,7 +6661,7 @@
       "total_fare": 5426,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496585+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737100+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6698,7 +6698,7 @@
       "total_fare": 4511,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496654+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737111+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6735,7 +6735,7 @@
       "total_fare": 4945,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496665+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737120+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6772,7 +6772,7 @@
       "total_fare": 4383,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496678+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737130+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6809,7 +6809,7 @@
       "total_fare": 4891,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496689+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737139+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6846,7 +6846,7 @@
       "total_fare": 4065,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496699+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737148+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6883,7 +6883,7 @@
       "total_fare": 4456,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496710+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737156+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6920,7 +6920,7 @@
       "total_fare": 5472,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496730+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737173+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6957,7 +6957,7 @@
       "total_fare": 6196,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496742+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737183+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -6994,7 +6994,7 @@
       "total_fare": 5489,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496753+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737193+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7031,7 +7031,7 @@
       "total_fare": 6092,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496764+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737202+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7068,7 +7068,7 @@
       "total_fare": 5227,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496776+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737212+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7105,7 +7105,7 @@
       "total_fare": 5919,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496788+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737221+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7142,7 +7142,7 @@
       "total_fare": 5243,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496802+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737230+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7179,7 +7179,7 @@
       "total_fare": 5820,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496816+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737239+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7216,7 +7216,7 @@
       "total_fare": 4084,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496835+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737249+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7253,7 +7253,7 @@
       "total_fare": 4624,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496846+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737258+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7290,7 +7290,7 @@
       "total_fare": 4097,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496856+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737269+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7327,7 +7327,7 @@
       "total_fare": 4546,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496867+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737279+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7364,7 +7364,7 @@
       "total_fare": 3717,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496879+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737288+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7401,7 +7401,7 @@
       "total_fare": 4208,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496890+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737298+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7438,7 +7438,7 @@
       "total_fare": 3728,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496901+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737307+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7475,7 +7475,7 @@
       "total_fare": 4137,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496912+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737317+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7512,7 +7512,7 @@
       "total_fare": 3308,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496924+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737327+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7549,7 +7549,7 @@
       "total_fare": 3745,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496935+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737336+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7586,7 +7586,7 @@
       "total_fare": 3319,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496945+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737344+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7623,7 +7623,7 @@
       "total_fare": 3683,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496956+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737353+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7660,7 +7660,7 @@
       "total_fare": 2982,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496967+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737363+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7697,7 +7697,7 @@
       "total_fare": 3375,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496978+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737372+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7734,7 +7734,7 @@
       "total_fare": 2991,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496988+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737380+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7771,7 +7771,7 @@
       "total_fare": 3319,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.496998+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737389+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7808,7 +7808,7 @@
       "total_fare": 7020,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497015+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737405+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7845,7 +7845,7 @@
       "total_fare": 7947,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497026+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737414+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7882,7 +7882,7 @@
       "total_fare": 7050,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497037+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737423+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7919,7 +7919,7 @@
       "total_fare": 8434,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497048+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737435+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7956,7 +7956,7 @@
       "total_fare": 6706,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497059+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737445+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -7993,7 +7993,7 @@
       "total_fare": 7591,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497070+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737454+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8030,7 +8030,7 @@
       "total_fare": 6734,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497080+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737462+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8067,7 +8067,7 @@
       "total_fare": 8057,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497090+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737470+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8104,7 +8104,7 @@
       "total_fare": 5238,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497103+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737478+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8141,7 +8141,7 @@
       "total_fare": 5931,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497113+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737485+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8178,7 +8178,7 @@
       "total_fare": 5261,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497124+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737493+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8215,7 +8215,7 @@
       "total_fare": 6294,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497134+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737500+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8252,7 +8252,7 @@
       "total_fare": 4767,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497146+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737508+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8289,7 +8289,7 @@
       "total_fare": 5397,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497156+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737515+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8326,7 +8326,7 @@
       "total_fare": 4788,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497166+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737522+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8363,7 +8363,7 @@
       "total_fare": 5727,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497176+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737529+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8400,7 +8400,7 @@
       "total_fare": 4243,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497188+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737537+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8437,7 +8437,7 @@
       "total_fare": 4804,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497199+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737544+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8474,7 +8474,7 @@
       "total_fare": 4261,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497209+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737551+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8511,7 +8511,7 @@
       "total_fare": 5099,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497219+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737558+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8548,7 +8548,7 @@
       "total_fare": 3825,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497231+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737568+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8585,7 +8585,7 @@
       "total_fare": 4329,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497242+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737575+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8622,7 +8622,7 @@
       "total_fare": 3840,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497252+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737582+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8659,7 +8659,7 @@
       "total_fare": 4594,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497263+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737590+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8696,7 +8696,7 @@
       "total_fare": 9871,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497280+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737603+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8733,7 +8733,7 @@
       "total_fare": 10480,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497291+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737610+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8770,7 +8770,7 @@
       "total_fare": 8754,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497301+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737618+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8807,7 +8807,7 @@
       "total_fare": 10455,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497312+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737625+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8844,7 +8844,7 @@
       "total_fare": 9429,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497324+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737633+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8881,7 +8881,7 @@
       "total_fare": 10011,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497335+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737640+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8918,7 +8918,7 @@
       "total_fare": 8362,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497346+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737647+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8955,7 +8955,7 @@
       "total_fare": 9987,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497356+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737654+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -8992,7 +8992,7 @@
       "total_fare": 7366,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497368+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737662+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9029,7 +9029,7 @@
       "total_fare": 7821,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497378+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737669+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9066,7 +9066,7 @@
       "total_fare": 6533,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497389+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737676+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9103,7 +9103,7 @@
       "total_fare": 7803,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497399+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737683+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9140,7 +9140,7 @@
       "total_fare": 6704,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497411+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737691+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9177,7 +9177,7 @@
       "total_fare": 7118,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497423+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737701+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9214,7 +9214,7 @@
       "total_fare": 5944,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497433+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737708+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9251,7 +9251,7 @@
       "total_fare": 7100,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497443+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737715+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9288,7 +9288,7 @@
       "total_fare": 5966,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497455+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737726+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9325,7 +9325,7 @@
       "total_fare": 6336,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497466+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737733+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9362,7 +9362,7 @@
       "total_fare": 5292,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497476+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737740+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9399,7 +9399,7 @@
       "total_fare": 6320,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497486+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737747+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9436,7 +9436,7 @@
       "total_fare": 5378,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497505+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737756+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9473,7 +9473,7 @@
       "total_fare": 5710,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497516+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737764+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9510,7 +9510,7 @@
       "total_fare": 4768,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497526+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737771+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     },
@@ -9547,7 +9547,7 @@
       "total_fare": 5696,
       "currency": "INR",
       "source": "yatra.com",
-      "scraped_at": "2026-10-22T13:43:05.497536+00:00",
+      "scraped_at": "2026-10-22T15:45:54.737778+00:00",
       "scraper_id": "yatra_scraper",
       "is_outlier": false
     }
