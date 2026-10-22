@@ -1,0 +1,14 @@
+{
+  "portal": "Cleartrip",
+  "airline_code": "CT",
+  "requests": [
+    {
+      "url": "https://www.cleartrip.com/flights/results?from=DEL&to=BOM&depart_date=29/10/2026&adults=1&childs=0&infants=0&class=Economy&airline=&carrier=&intl=n&page=loaded",
+      "method": "GET",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+      }
+    }
+  ],
+  "responses": []
+}

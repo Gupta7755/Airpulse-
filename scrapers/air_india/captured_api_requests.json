@@ -1,0 +1,499 @@
+{
+  "airline": "Air India",
+  "airline_code": "AI",
+  "run_date": "2026-09-14",
+  "monitored_routes": [
+    "DEL-BOM",
+    "DEL-BLR",
+    "BOM-BLR",
+    "DEL-CCU",
+    "BLR-HYD",
+    "MAA-DEL",
+    "DEL-HYD",
+    "BOM-GOI",
+    "BOM-MAA",
+    "CCU-BLR"
+  ],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/cbiz-uam/v1/common/countries",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "x-request-source": "website",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/airport-info/v1/airports?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/common/general/class-type?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/flight-booking/v2/concession-types?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"DEL\",\"destination\":\"BOM\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"DEL\",\"destination\":\"BLR\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"BOM\",\"destination\":\"BLR\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"DEL\",\"destination\":\"CCU\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"BLR\",\"destination\":\"HYD\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"MAA\",\"destination\":\"DEL\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"DEL\",\"destination\":\"HYD\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"BOM\",\"destination\":\"GOI\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"BOM\",\"destination\":\"MAA\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "POST",
+      "url": "https://api.airindia.com/airline-fares/v1/search",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": "{\"classType\":\"ECONOMY\",\"concessionType\":null,\"itinerary\":{\"origin\":\"CCU\",\"destination\":\"BLR\",\"departureDate\":\"2026-09-14\",\"returnDate\":null,\"originCountryCode\":\"IN\"},\"tripInfo\":{\"duration\":null,\"range\":54,\"durationFlexibility\":null}}"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/in/en/book/flight-schedule.html",
+      "headers": {
+        "accept-language": "en-IN",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/etc.clientlibs/air-india/clientlibs-nx/airindia-flightschedule/clientlibs.lc-c36792b9fde1f3cce2d616bd2787a14d-lc.min.css",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/in/en/book/flight-schedule.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/etc.clientlibs/air-india/clientlibs-nx/airindia-flightschedule/clientlibs.lc-a840bd30921368950df3a14500a01df2-lc.min.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/in/en/book/flight-schedule.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/etc.clientlibs/air-india/components/AIWebComponents/airindia-flightschedule/clientlibs.lc-b9d9b29d781f4223c0c49518dbb038d2-lc.min.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/in/en/book/flight-schedule.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/etc.clientlibs/air-india/components/AIWebComponents/airindia-flightschedule/clientlibs.lc-84cc2e6703ceb2febe68d24b1bb6d0d8-lc.min.css",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/in/en/book/flight-schedule.html",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.airindia.com/content/air-india/in/en/book/flight-schedule/jcr:content/root/container/container/airindia_flightsched.model.json?language=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/in/en/book/flight-schedule.html",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/airport-info/v1/airports?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "POST",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html&scrsrc=www.googletagmanager.com&rnd=1967387750.1789339092&navt=n&npa=1&ep.ads_data_redaction=1&_tu=CA&gtm=45He6992v76758720za200zd76758720xea&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~120474862&tft=1789339092130&tfd=1585&fmt=8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "POST",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=0&tid=DC-13908331&en=page_view&dl=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html&scrsrc=www.googletagmanager.com&rnd=1967387750.1789339092&navt=n&npa=1&_tu=KA&gtm=45fe6992v9170754111z876758720za20gzb76758720zd76758720xecxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~120912439&tft=1789339092132&tfd=1587&tids=DC-13908331&fmt=8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=13908331;type=airin001;cat=airin0;rcb=11;ord=3940102107844;npa=1;uaa=x86;uab=64;uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6992v9170754111z876758720za20gzb76758720zd76758720xeaxf1;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~120912439;epver=2;~oref=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html?",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=13908331;dc_pre=CPfh_8fP7JYDFYeGOAgdMdoxXg;type=airin001;cat=airin0;rcb=11;ord=3940102107844;npa=1;uaa=x86;uab=64;uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6992v9170754111z876758720za20gzb76758720zd76758720xeaxf1;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~120912439;epver=2;~oref=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html?",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "accept-language": "en-IN",
+        "referer": "https://www.airindia.com/"
+      },
+      "post_data": null
+    },
+    {
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-KY2H50PYYH&gtm=45je6992v888837272z876758720za20gzb76758720zd76758720&_p=1789339090784&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAAGAC&cid=1229150342.1789339093&frm=0&pscdl=denied&rcb=12&sr=1440x950&uaa=x86&uab=64&uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-in&gaf=2&_s=1&tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~120912438&dl=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html&sid=1789339092&sct=1&seg=0&dt=Check%20Flight%20Schedule%20Online%20-%20Domestic%20%26%20International%20Flights%20%7C%20Air%20India&_tu=CA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.consolidatedCSV=%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2Chttps%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html&ep.OriginToDestination=-&ep.concessionType=notpresent&ep.payBy=notpresent&ep.route_type=Domestic&ep.page_structure=AEM&tfd=2344",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/cbiz-uam/v1/common/countries",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "x-request-source": "website",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json",
+        "content-type": "application/json",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/airport-info/v1/airports?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/common/general/class-type?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://api.airindia.com/flight-booking/v2/concession-types?lang=en",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "accept-language": "en-IN",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "sec-ch-ua-mobile": "?0",
+        "ocp-apim-subscription-key": "8ea658f3ac1e44cca129d7ed252d4c42",
+        "accept": "application/json, text/plain, */*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      "post_data": null
+    },
+    {
+      "method": "POST",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&tid=AW-11304640152&dl=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html&scrsrc=www.googletagmanager.com&rnd=1967387750.1789339092&navt=n&npa=1&ep.ads_data_redaction=1&gdid=dYWJhMj&_tu=CA&gtm=45be6992v9165288546z876758720za20gzb76758720zd76758720xea&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153&tft=1789339094101&tfd=3557&tids=AW-11304640152&fmt=8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15041727;type=visit0;cat=sitew0;rcb=0;ord=8923065593986;npa=1;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6992v9200948040z876758720za20gzb76758720zd76758720xea;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153;epver=2;~oref=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html?",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.airindia.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+        "accept-language": "en-IN",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null
+    },
+    {
+      "method": "GET",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15041727;dc_pre=CLyJ98jP7JYDFR7lhAAdPo4qZg;type=visit0;cat=sitew0;rcb=0;ord=8923065593986;npa=1;gdid=dYWJhMj;uaa=x86;uab=64;uafvl=Chromium%3B152.0.7977.84%7CNot%253FA_Brand%3B24.0.0.0%7CGoogle%2520Chrome%3B152.0.7977.84;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6992v9200948040z876758720za20gzb76758720zd76758720xea;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153;epver=2;~oref=https%3A%2F%2Fwww.airindia.com%2Fin%2Fen%2Fbook%2Fflight-schedule.html?",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "accept-language": "en-IN",
+        "referer": "https://www.airindia.com/"
+      },
+      "post_data": null
+    }
+  ],
+  "responses": []
+}

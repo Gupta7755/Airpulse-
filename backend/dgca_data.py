@@ -1,0 +1,286 @@
+AIRLINES_DATA = [
+    {
+        "code": "6E",
+        "name": "IndiGo",
+        "type": "AIRLINE",
+        "base_url": "https://www.goindigo.in",
+        "color_hex": "#0052CC",
+        "market_share_pct": 60.5
+    },
+    {
+        "code": "AI",
+        "name": "Air India",
+        "type": "AIRLINE",
+        "base_url": "https://www.airindia.com",
+        "color_hex": "#D91438",
+        "market_share_pct": 14.2
+    },
+    {
+        "code": "IX",
+        "name": "Air India Express",
+        "type": "AIRLINE",
+        "base_url": "https://www.airindiaexpress.com",
+        "color_hex": "#F37023",
+        "market_share_pct": 6.8
+    },
+    {
+        "code": "QP",
+        "name": "Akasa Air",
+        "type": "AIRLINE",
+        "base_url": "https://www.akasaair.com",
+        "color_hex": "#FF6600",
+        "market_share_pct": 4.8
+    },
+    {
+        "code": "SG",
+        "name": "SpiceJet",
+        "type": "AIRLINE",
+        "base_url": "https://www.spicejet.com",
+        "color_hex": "#ED1C24",
+        "market_share_pct": 4.0
+    },
+    {
+        "code": "MMT",
+        "name": "MakeMyTrip",
+        "type": "OTA",
+        "base_url": "https://www.makemytrip.com/flights",
+        "color_hex": "#EA2330",
+        "market_share_pct": None
+    },
+    {
+        "code": "EMT",
+        "name": "EaseMyTrip",
+        "type": "OTA",
+        "base_url": "https://www.easemytrip.com/flights",
+        "color_hex": "#0084FF",
+        "market_share_pct": None
+    },
+    {
+        "code": "YTR",
+        "name": "Yatra",
+        "type": "OTA",
+        "base_url": "https://www.yatra.com/flights",
+        "color_hex": "#D32F2F",
+        "market_share_pct": None
+    },
+    {
+        "code": "CT",
+        "name": "Cleartrip",
+        "type": "OTA",
+        "base_url": "https://www.cleartrip.com/flights",
+        "color_hex": "#FF4F17",
+        "market_share_pct": None
+    },
+    {
+        "code": "IXG",
+        "name": "ixigo",
+        "type": "OTA",
+        "base_url": "https://www.ixigo.com/flights",
+        "color_hex": "#FC2779",
+        "market_share_pct": None
+    },
+    {
+        "code": "GIB",
+        "name": "Goibibo",
+        "type": "OTA",
+        "base_url": "https://www.goibibo.com/flights",
+        "color_hex": "#F26722",
+        "market_share_pct": None
+    },
+    {
+        "code": "SKY",
+        "name": "Skyscanner",
+        "type": "OTA",
+        "base_url": "https://www.skyscanner.co.in/flights",
+        "color_hex": "#0770E3",
+        "market_share_pct": None
+    }
+]
+
+# Top 10 Indian Domestic Corridors based on DGCA Passenger Traffic Statistics
+DGCA_ROUTES_DATA = [
+    {
+        "route_code": "DEL-BOM",
+        "origin_code": "DEL",
+        "origin_city": "Delhi",
+        "origin_airport": "Indira Gandhi International Airport",
+        "origin_state": "Delhi",
+        "origin_lat": 28.5562,
+        "origin_lon": 77.1000,
+        "destination_code": "BOM",
+        "destination_city": "Mumbai",
+        "destination_airport": "Chhatrapati Shivaji Maharaj International Airport",
+        "destination_state": "Maharashtra",
+        "destination_lat": 19.0896,
+        "destination_lon": 72.8656,
+        "distance_km": 1148,
+        "annual_passengers": 7420000,
+    },
+    {
+        "route_code": "DEL-BLR",
+        "origin_code": "DEL",
+        "origin_city": "Delhi",
+        "origin_airport": "Indira Gandhi International Airport",
+        "origin_state": "Delhi",
+        "origin_lat": 28.5562,
+        "origin_lon": 77.1000,
+        "destination_code": "BLR",
+        "destination_city": "Bengaluru",
+        "destination_airport": "Kempegowda International Airport",
+        "destination_state": "Karnataka",
+        "destination_lat": 13.1986,
+        "destination_lon": 77.7066,
+        "distance_km": 1740,
+        "annual_passengers": 4950000,
+    },
+    {
+        "route_code": "BOM-BLR",
+        "origin_code": "BOM",
+        "origin_city": "Mumbai",
+        "origin_airport": "Chhatrapati Shivaji Maharaj International Airport",
+        "origin_state": "Maharashtra",
+        "origin_lat": 19.0896,
+        "origin_lon": 72.8656,
+        "destination_code": "BLR",
+        "destination_city": "Bengaluru",
+        "destination_airport": "Kempegowda International Airport",
+        "destination_state": "Karnataka",
+        "destination_lat": 13.1986,
+        "destination_lon": 77.7066,
+        "distance_km": 842,
+        "annual_passengers": 3680000,
+    },
+    {
+        "route_code": "DEL-CCU",
+        "origin_code": "DEL",
+        "origin_city": "Delhi",
+        "origin_airport": "Indira Gandhi International Airport",
+        "origin_state": "Delhi",
+        "origin_lat": 28.5562,
+        "origin_lon": 77.1000,
+        "destination_code": "CCU",
+        "destination_city": "Kolkata",
+        "destination_airport": "Netaji Subhash Chandra Bose International Airport",
+        "destination_state": "West Bengal",
+        "destination_lat": 22.6547,
+        "destination_lon": 88.4467,
+        "distance_km": 1305,
+        "annual_passengers": 3150000,
+    },
+    {
+        "route_code": "BLR-HYD",
+        "origin_code": "BLR",
+        "origin_city": "Bengaluru",
+        "origin_airport": "Kempegowda International Airport",
+        "origin_state": "Karnataka",
+        "origin_lat": 13.1986,
+        "origin_lon": 77.7066,
+        "destination_code": "HYD",
+        "destination_city": "Hyderabad",
+        "destination_airport": "Rajiv Gandhi International Airport",
+        "destination_state": "Telangana",
+        "destination_lat": 17.2403,
+        "destination_lon": 78.4294,
+        "distance_km": 500,
+        "annual_passengers": 2820000,
+    },
+    {
+        "route_code": "MAA-DEL",
+        "origin_code": "MAA",
+        "origin_city": "Chennai",
+        "origin_airport": "Chennai International Airport",
+        "origin_state": "Tamil Nadu",
+        "origin_lat": 12.9941,
+        "origin_lon": 80.1709,
+        "destination_code": "DEL",
+        "destination_city": "Delhi",
+        "destination_airport": "Indira Gandhi International Airport",
+        "destination_state": "Delhi",
+        "destination_lat": 28.5562,
+        "destination_lon": 77.1000,
+        "distance_km": 1760,
+        "annual_passengers": 2640000,
+    },
+    {
+        "route_code": "DEL-HYD",
+        "origin_code": "DEL",
+        "origin_city": "Delhi",
+        "origin_airport": "Indira Gandhi International Airport",
+        "origin_state": "Delhi",
+        "origin_lat": 28.5562,
+        "origin_lon": 77.1000,
+        "destination_code": "HYD",
+        "destination_city": "Hyderabad",
+        "destination_airport": "Rajiv Gandhi International Airport",
+        "destination_state": "Telangana",
+        "destination_lat": 17.2403,
+        "destination_lon": 78.4294,
+        "distance_km": 1255,
+        "annual_passengers": 2510000,
+    },
+    {
+        "route_code": "BOM-GOI",
+        "origin_code": "BOM",
+        "origin_city": "Mumbai",
+        "origin_airport": "Chhatrapati Shivaji Maharaj International Airport",
+        "origin_state": "Maharashtra",
+        "origin_lat": 19.0896,
+        "origin_lon": 72.8656,
+        "destination_code": "GOI",
+        "destination_city": "Goa",
+        "destination_airport": "Dabolim / Manohar International Airport",
+        "destination_state": "Goa",
+        "destination_lat": 15.3808,
+        "destination_lon": 73.8314,
+        "distance_km": 435,
+        "annual_passengers": 2200000,
+    },
+    {
+        "route_code": "BOM-MAA",
+        "origin_code": "BOM",
+        "origin_city": "Mumbai",
+        "origin_airport": "Chhatrapati Shivaji Maharaj International Airport",
+        "origin_state": "Maharashtra",
+        "origin_lat": 19.0896,
+        "origin_lon": 72.8656,
+        "destination_code": "MAA",
+        "destination_city": "Chennai",
+        "destination_airport": "Chennai International Airport",
+        "destination_state": "Tamil Nadu",
+        "destination_lat": 12.9941,
+        "destination_lon": 80.1709,
+        "distance_km": 1030,
+        "annual_passengers": 1980000,
+    },
+    {
+        "route_code": "CCU-BLR",
+        "origin_code": "CCU",
+        "origin_city": "Kolkata",
+        "origin_airport": "Netaji Subhash Chandra Bose International Airport",
+        "origin_state": "West Bengal",
+        "origin_lat": 22.6547,
+        "origin_lon": 88.4467,
+        "destination_code": "BLR",
+        "destination_city": "Bengaluru",
+        "destination_airport": "Kempegowda International Airport",
+        "destination_state": "Karnataka",
+        "destination_lat": 13.1986,
+        "destination_lon": 77.7066,
+        "distance_km": 1540,
+        "annual_passengers": 1850000,
+    }
+]
+
+# Calculate normalized weights based on annual passenger traffic
+TOTAL_TRACKED_PASSENGERS = sum(r["annual_passengers"] for r in DGCA_ROUTES_DATA)
+
+for r in DGCA_ROUTES_DATA:
+    r["passenger_share"] = r["annual_passengers"] / TOTAL_TRACKED_PASSENGERS
+    # Normalized weight rounded to 6 decimals, ensuring exact mathematical integrity
+    r["normalized_weight"] = round(r["passenger_share"], 6)
+
+# Normalize any minute rounding difference onto the largest corridor (DEL-BOM)
+weight_diff = 1.0 - sum(r["normalized_weight"] for r in DGCA_ROUTES_DATA)
+if weight_diff != 0:
+    DGCA_ROUTES_DATA[0]["normalized_weight"] = round(DGCA_ROUTES_DATA[0]["normalized_weight"] + weight_diff, 6)
+

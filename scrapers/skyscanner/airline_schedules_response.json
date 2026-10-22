@@ -1,0 +1,17 @@
+{
+  "portal": "Skyscanner",
+  "airline_code": "SKY",
+  "monitored_routes": [
+    "DEL-BOM",
+    "DEL-BLR",
+    "BOM-BLR",
+    "DEL-CCU",
+    "BLR-HYD",
+    "MAA-DEL",
+    "DEL-HYD",
+    "BOM-GOI",
+    "BOM-MAA",
+    "CCU-BLR"
+  ],
+  "total_extracted_quotes": 264
+}

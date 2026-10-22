@@ -1,0 +1,295 @@
+/* ==========================================================================
+   Bold Typography Design System - Global Tokens & Foundations
+   Aesthetic: Poster design translated to web. Confident. Editorial. Deliberate.
+   ========================================================================== */
+
+:root {
+  /* Colors (Dark Canvas) */
+  --bg: #0A0A0A;
+  --fg: #FAFAFA;
+  --muted: #1A1A1A;
+  --muted-fg: #737373;
+  --accent: #FF3D00;
+  --accent-fg: #0A0A0A;
+  --border: #262626;
+  --border-hover: #404040;
+  --input: #1A1A1A;
+  --card: #0F0F0F;
+  --card-fg: #FAFAFA;
+  --ring: #FF3D00;
+
+  /* SVG Chart Theme Tokens */
+  --chart-grid: #262626;
+  --chart-axis: #404040;
+  --chart-bg: #0A0A0A;
+  --chart-axis-text: #737373;
+  --chart-stroke-start: #FAFAFA;
+  --chart-tooltip-bg: #0A0A0A;
+  --chart-tooltip-text: #FAFAFA;
+  --chart-tooltip-sub: #A3A3A3;
+
+  /* Typography Stacks */
+  --font-sans: "Inter Tight", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+
+  /* Scale Hierarchy (Strict 6:1+ ratio between display and body) */
+  --text-xs: 0.75rem;    /* 12px */
+  --text-sm: 0.875rem;   /* 14px */
+  --text-base: 1rem;     /* 16px */
+  --text-lg: 1.125rem;   /* 18px */
+  --text-xl: 1.25rem;    /* 20px */
+  --text-2xl: 1.5rem;    /* 24px */
+  --text-3xl: 2rem;      /* 32px */
+  --text-4xl: 2.5rem;    /* 40px */
+  --text-5xl: 3.5rem;    /* 56px */
+  --text-6xl: 4.5rem;    /* 72px */
+  --text-7xl: 6rem;      /* 96px */
+  --text-8xl: 8rem;      /* 128px */
+  --text-9xl: 10rem;     /* 160px */
+
+  /* Tracking System - Generous, legible letter distance */
+  --tracking-tighter: 0.015em;
+  --tracking-tight: 0.035em;
+  --tracking-normal: 0.045em;
+  --tracking-wide: 0.08em;
+  --tracking-wider: 0.14em;
+  --tracking-widest: 0.22em;
+
+  /* Line Heights */
+  --leading-none: 1;
+  --leading-tight: 1.1;
+  --leading-snug: 1.25;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.75;
+
+  /* Geometry & Borders: STRICT 0px radius */
+  --radius: 0px;
+  --border-width: 1px;
+  --border-thick: 2px;
+
+  /* Motion: Fast, decisive, zero bounce */
+  --ease-fast: cubic-bezier(0.25, 0, 0, 1);
+  --duration-micro: 150ms;
+  --duration-standard: 200ms;
+}
+
+[data-theme="light"] {
+  /* Colors (Light Canvas) */
+  --bg: #F8FAFC;
+  --fg: #0F172A;
+  --muted: #F1F5F9;
+  --muted-fg: #475569;
+  --accent: #FF3D00;
+  --accent-fg: #FFFFFF;
+  --border: #E2E8F0;
+  --border-hover: #CBD5E1;
+  --input: #FFFFFF;
+  --card: #FFFFFF;
+  --card-fg: #0F172A;
+  --ring: #FF3D00;
+
+  /* SVG Chart Theme Tokens in Light Mode */
+  --chart-grid: #E2E8F0;
+  --chart-axis: #94A3B8;
+  --chart-bg: #FFFFFF;
+  --chart-axis-text: #475569;
+  --chart-stroke-start: #0F172A;
+  --chart-tooltip-bg: #FFFFFF;
+  --chart-tooltip-text: #0F172A;
+  --chart-tooltip-sub: #475569;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border-radius: 0 !important; /* Enforce sharp geometry across entire site */
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100vh;
+  max-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: var(--font-sans);
+  background-color: var(--bg);
+  color: var(--fg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 860px) {
+  html, body, #root {
+    height: auto !important;
+    min-height: 100% !important;
+    max-height: none !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Subtle fractal noise grain texture layer (1.8% opacity) */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.02'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* Focus state: 2px accent outline, 2px offset, no glow */
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+  transition: all var(--duration-micro) var(--ease-fast);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--duration-micro) var(--ease-fast);
+}
+
+/* Bold Typography Button Primitives */
+.btn-primary-bold {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: var(--accent);
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+  padding: 8px 0;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary-bold::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--accent);
+  transform-origin: left center;
+  transition: transform var(--duration-micro) var(--ease-fast);
+}
+
+.btn-primary-bold:hover::after {
+  transform: scaleX(1.1);
+}
+
+.btn-primary-bold:active {
+  transform: translateY(1px);
+}
+
+.btn-secondary-bold {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--fg);
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+  padding: 10px 24px;
+  cursor: pointer;
+  transition: background-color var(--duration-micro) var(--ease-fast),
+              color var(--duration-micro) var(--ease-fast);
+}
+
+.btn-secondary-bold:hover {
+  background-color: var(--fg);
+  color: var(--bg);
+}
+
+.btn-secondary-bold:active {
+  transform: translateY(1px);
+}
+
+/* Ergonomic, clearly visible scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.28) rgba(15, 15, 18, 0.6);
+}
+
+[data-theme="light"] * {
+  scrollbar-color: #94A3B8 #F1F5F9;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(14, 14, 18, 0.7);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.26);
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+  transition: background 0.2s ease;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 61, 0, 0.75);
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+[data-theme="light"] ::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+[data-theme="light"] ::-webkit-scrollbar-thumb:hover {
+  background: #FF5722;
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+/* ==========================================================================
+   Page & Display Heading Typography (Generous Letter Spacing / Text Distance)
+   ========================================================================== */
+h1, .h1, .page-title, .main-title, .mospi-main-title, .hud-title, .hero-main-heading {
+  letter-spacing: 0.05em !important;
+}
+
+h2, .h2, .section-title, .deck-page-title, .bold-display-h2 {
+  letter-spacing: 0.045em !important;
+}
+
+h3, .h3, .subgroup-title, .card-main-title {
+  letter-spacing: 0.035em !important;
+}

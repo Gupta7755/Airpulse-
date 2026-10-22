@@ -1,0 +1,14 @@
+{
+  "portal": "Skyscanner",
+  "airline_code": "SKY",
+  "requests": [
+    {
+      "url": "https://www.skyscanner.co.in/transport/flights/del/bom/261029/",
+      "method": "GET",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+      }
+    }
+  ],
+  "responses": []
+}

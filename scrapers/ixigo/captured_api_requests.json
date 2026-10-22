@@ -1,0 +1,14 @@
+{
+  "portal": "ixigo",
+  "airline_code": "IXG",
+  "requests": [
+    {
+      "url": "https://www.ixigo.com/search/result/flight/DEL/BOM/20261029/1/0/0/e",
+      "method": "GET",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+      }
+    }
+  ],
+  "responses": []
+}
