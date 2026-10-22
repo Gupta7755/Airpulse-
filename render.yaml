@@ -29,6 +29,10 @@ services:
         sync: false
       - key: OPENSKY_CLIENT_SECRET
         sync: false
+      - key: OPENSKY_CLIENT_ID_2
+        sync: false
+      - key: OPENSKY_CLIENT_SECRET_2
+        sync: false
       - key: API_AUTH_PASS
         sync: false
 

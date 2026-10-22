@@ -13,17 +13,39 @@ import json
 import re
 import hashlib
 import urllib.request
+import urllib.error
 import urllib.parse
 from datetime import datetime, timezone, timedelta
 from typing import Dict, List, Any, Optional
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # ============================================================================
 # OPENSKY NETWORK OAUTH2 & LIVE ADS-B CACHING
 # ============================================================================
-_OPENSKY_CLIENT_ID = os.getenv("OPENSKY_CLIENT_ID", "")
-_OPENSKY_CLIENT_SECRET = os.getenv("OPENSKY_CLIENT_SECRET", "")
-_OPENSKY_TOKEN: Optional[str] = None
-_OPENSKY_TOKEN_EXPIRES_AT: float = 0.0
+def _load_opensky_credentials() -> List[Dict[str, Any]]:
+    """Loads OPENSKY_CLIENT_ID/SECRET plus numbered backups (_2, _3, ...) from the environment."""
+    creds = []
+    for suffix in [""] + [f"_{n}" for n in range(2, 10)]:
+        cid = os.getenv(f"OPENSKY_CLIENT_ID{suffix}", "").strip()
+        secret = os.getenv(f"OPENSKY_CLIENT_SECRET{suffix}", "").strip()
+        if cid and secret:
+            creds.append({
+                "client_id": cid,
+                "client_secret": secret,
+                "token": None,
+                "expires_at": 0.0,
+                "blocked_until": 0.0,  # set when this key hits its rate limit or fails auth
+            })
+    return creds
+
+
+# Ordered pool of OpenSky API clients; the first one not rate-limited is used
+_OPENSKY_CREDENTIALS: List[Dict[str, Any]] = _load_opensky_credentials()
+_OPENSKY_ACTIVE: Optional[Dict[str, Any]] = None
+_OPENSKY_DEFAULT_COOLDOWN = 3600.0  # seconds, when OpenSky gives no retry-after hint
 
 # 8-second FIR cache to guarantee safety within OpenSky API rate limits
 _OPENSKY_INDIA_CACHE: Dict[str, Any] = {
@@ -40,22 +62,17 @@ _WEATHER_CACHE_TTL = 600.0  # 10 minutes
 _LAST_DB_PERSIST_TIME: float = 0.0
 
 
-def get_opensky_token() -> Optional[str]:
-    """Retrieves or auto-refreshes OAuth2 access token for OpenSky Network REST API."""
-    global _OPENSKY_TOKEN, _OPENSKY_TOKEN_EXPIRES_AT
-    now = time.time()
-    if _OPENSKY_TOKEN and now < (_OPENSKY_TOKEN_EXPIRES_AT - 60.0):
-        return _OPENSKY_TOKEN
-    if not (_OPENSKY_CLIENT_ID and _OPENSKY_CLIENT_SECRET):
-        # No credentials configured: callers fall back to anonymous OpenSky access
-        return None
+def _fetch_opensky_token(cred: Dict[str, Any], now: float) -> Optional[str]:
+    """Retrieves or auto-refreshes the OAuth2 access token for one OpenSky API client."""
+    if cred["token"] and now < (cred["expires_at"] - 60.0):
+        return cred["token"]
 
     try:
         token_url = "https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token"
         payload = urllib.parse.urlencode({
             "grant_type": "client_credentials",
-            "client_id": _OPENSKY_CLIENT_ID,
-            "client_secret": _OPENSKY_CLIENT_SECRET
+            "client_id": cred["client_id"],
+            "client_secret": cred["client_secret"]
         }).encode("utf-8")
         req = urllib.request.Request(
             token_url,
@@ -67,12 +84,58 @@ def get_opensky_token() -> Optional[str]:
             token = res_data.get("access_token")
             expires_in = res_data.get("expires_in", 1800)
             if token:
-                _OPENSKY_TOKEN = token
-                _OPENSKY_TOKEN_EXPIRES_AT = now + float(expires_in)
-                return _OPENSKY_TOKEN
+                cred["token"] = token
+                cred["expires_at"] = now + float(expires_in)
+                return token
     except Exception as exc:
-        print(f"[OpenSky] Token error: {exc}")
-    return _OPENSKY_TOKEN
+        print(f"[OpenSky] Token error for client '{cred['client_id']}': {exc}")
+        # Bad/revoked credentials: skip this key for a while so the next one is tried
+        cred["blocked_until"] = now + 600.0
+    return None
+
+
+def get_opensky_token() -> Optional[str]:
+    """
+    Returns a valid token from the first OpenSky API client that is not rate-limited.
+    Fails over to the next configured client automatically; returns None when no
+    client is usable (callers then fall back to the offline radar feed).
+    """
+    global _OPENSKY_ACTIVE
+    now = time.time()
+    for cred in _OPENSKY_CREDENTIALS:
+        if now < cred["blocked_until"]:
+            continue
+        token = _fetch_opensky_token(cred, now)
+        if token:
+            if _OPENSKY_ACTIVE is not cred:
+                print(f"[OpenSky] Using API client '{cred['client_id']}'")
+            _OPENSKY_ACTIVE = cred
+            return token
+    _OPENSKY_ACTIVE = None
+    return None
+
+
+def mark_opensky_rate_limited(retry_after: Optional[float] = None) -> None:
+    """Parks the active OpenSky client until its rate limit resets so the next one takes over."""
+    global _OPENSKY_ACTIVE
+    if _OPENSKY_ACTIVE is None:
+        return
+    cooldown = retry_after if retry_after and retry_after > 0 else _OPENSKY_DEFAULT_COOLDOWN
+    _OPENSKY_ACTIVE["blocked_until"] = time.time() + cooldown
+    print(f"[OpenSky] API client '{_OPENSKY_ACTIVE['client_id']}' hit its rate limit; "
+          f"switching to next client for {int(cooldown)}s")
+    _OPENSKY_ACTIVE = None
+
+
+def get_opensky_key_status() -> List[Dict[str, Any]]:
+    """Reports each configured OpenSky client's state (secrets are never included)."""
+    now = time.time()
+    return [{
+        "client_id": c["client_id"],
+        "active": c is _OPENSKY_ACTIVE,
+        "rate_limited": now < c["blocked_until"],
+        "available_in_seconds": max(0, int(c["blocked_until"] - now)),
+    } for c in _OPENSKY_CREDENTIALS]
 
 
 # ============================================================================
@@ -794,6 +857,35 @@ def generate_active_airspace_radar_fallback() -> List[Dict[str, Any]]:
     return flights
 
 
+def _request_opensky_states() -> List[Any]:
+    """
+    Requests raw state vectors over the Indian FIR. If the active API client is
+    rate-limited (HTTP 429), it is parked and the request is retried with the
+    next configured client.
+    """
+    api_url = "https://opensky-network.org/api/states/all?lamin=6.0&lomin=68.0&lamax=36.5&lomax=97.5"
+    for _ in range(max(1, len(_OPENSKY_CREDENTIALS))):
+        token = get_opensky_token()
+        if not token:
+            break
+        req = urllib.request.Request(api_url, headers={"Authorization": f"Bearer {token}", "User-Agent": "Airpulse-Radar/2.0"})
+        try:
+            with urllib.request.urlopen(req, timeout=5.0) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                return data.get("states") or []
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                retry_after = exc.headers.get("X-Rate-Limit-Retry-After-Seconds")
+                mark_opensky_rate_limited(float(retry_after) if retry_after else None)
+                continue
+            print(f"[OpenSky] Live fetch notice: {exc}")
+            break
+        except Exception as exc:
+            print(f"[OpenSky] Live fetch notice: {exc}")
+            break
+    return []
+
+
 def fetch_opensky_india_states(db=None) -> List[Dict[str, Any]]:
     """
     Fetches genuine real-time ADS-B state vectors for all aircraft in Indian FIR
@@ -806,91 +898,84 @@ def fetch_opensky_india_states(db=None) -> List[Dict[str, Any]]:
         return _OPENSKY_INDIA_CACHE["states"]
 
     parsed_states = []
-    token = get_opensky_token()
-    if token:
-        api_url = "https://opensky-network.org/api/states/all?lamin=6.0&lomin=68.0&lamax=36.5&lomax=97.5"
-        req = urllib.request.Request(api_url, headers={"Authorization": f"Bearer {token}", "User-Agent": "Airpulse-Radar/2.0"})
-        try:
-            with urllib.request.urlopen(req, timeout=5.0) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-                raw_states = data.get("states") or []
+    raw_states = _request_opensky_states()
+    try:
+        for s in raw_states:
+            lon = s[5]
+            lat = s[6]
+            if lon is None or lat is None:
+                continue
 
-                for s in raw_states:
-                    lon = s[5]
-                    lat = s[6]
-                    if lon is None or lat is None:
-                        continue
+            callsign_raw = (s[1] or "").strip()
+            icao24 = s[0] or ""
+            country = s[2] or "India"
+            last_contact = s[4] or int(now)
 
-                    callsign_raw = (s[1] or "").strip()
-                    icao24 = s[0] or ""
-                    country = s[2] or "India"
-                    last_contact = s[4] or int(now)
+            alt_m = s[7] if s[7] is not None else (s[13] if s[13] is not None else 0.0)
+            alt_ft = int(alt_m * 3.28084)
+            fl = f"FL{int(alt_ft / 100):03d}" if alt_ft >= 10000 else f"{alt_ft:,} ft"
 
-                    alt_m = s[7] if s[7] is not None else (s[13] if s[13] is not None else 0.0)
-                    alt_ft = int(alt_m * 3.28084)
-                    fl = f"FL{int(alt_ft / 100):03d}" if alt_ft >= 10000 else f"{alt_ft:,} ft"
+            on_ground = bool(s[8])
+            vel_ms = s[9] or 0.0
+            vel_kts = int(vel_ms * 1.94384)
+            vel_kmh = int(vel_ms * 3.6)
 
-                    on_ground = bool(s[8])
-                    vel_ms = s[9] or 0.0
-                    vel_kts = int(vel_ms * 1.94384)
-                    vel_kmh = int(vel_ms * 3.6)
+            heading = round(s[10], 1) if s[10] is not None else 0.0
+            vert_ms = s[11] or 0.0
+            vert_fpm = int(vert_ms * 196.85)
 
-                    heading = round(s[10], 1) if s[10] is not None else 0.0
-                    vert_ms = s[11] or 0.0
-                    vert_fpm = int(vert_ms * 196.85)
+            if vert_fpm > 150:
+                v_trend = "CLIMBING"
+            elif vert_fpm < -150:
+                v_trend = "DESCENDING"
+            else:
+                v_trend = "LEVEL"
 
-                    if vert_fpm > 150:
-                        v_trend = "CLIMBING"
-                    elif vert_fpm < -150:
-                        v_trend = "DESCENDING"
-                    else:
-                        v_trend = "LEVEL"
+            squawk = s[14] or "—"
 
-                    squawk = s[14] or "—"
+            meta = resolve_flight_route_and_commercial_number(
+                raw_callsign=callsign_raw,
+                icao24=icao24,
+                lat=lat,
+                lon=lon,
+                heading=heading,
+                on_ground=on_ground,
+                country=country
+            )
 
-                    meta = resolve_flight_route_and_commercial_number(
-                        raw_callsign=callsign_raw,
-                        icao24=icao24,
-                        lat=lat,
-                        lon=lon,
-                        heading=heading,
-                        on_ground=on_ground,
-                        country=country
-                    )
-
-                    parsed_states.append({
-                        "icao24": icao24,
-                        "callsign": meta["commercial_flight_number"],
-                        "commercial_flight_number": meta["commercial_flight_number"],
-                        "atc_callsign": meta["atc_callsign"],
-                        "airline": meta["airline"],
-                        "airline_code": meta["airline_code"],
-                        "airline_color": meta["airline_color"],
-                        "aircraft_model": meta["aircraft_model"],
-                        "registration": meta["registration"],
-                        "ground_status": meta["ground_status"],
-                        "origin": meta["origin"],
-                        "destination": meta["destination"],
-                        "progress_pct": meta["progress_pct"],
-                        "lat": round(lat, 5),
-                        "lon": round(lon, 5),
-                        "altitude_m": round(alt_m, 1),
-                        "altitude_ft": alt_ft,
-                        "flight_level": fl,
-                        "on_ground": on_ground,
-                        "velocity_kts": vel_kts,
-                        "velocity_kmh": vel_kmh,
-                        "velocity_ms": vel_ms,
-                        "heading": heading,
-                        "vertical_rate_fpm": vert_fpm,
-                        "vertical_trend": v_trend,
-                        "squawk": squawk,
-                        "origin_country": country,
-                        "last_contact": last_contact,
-                        "source": "OpenSky Network (Live ADS-B)"
-                    })
-        except Exception as exc:
-            print(f"[OpenSky] Live fetch notice: {exc}")
+            parsed_states.append({
+                "icao24": icao24,
+                "callsign": meta["commercial_flight_number"],
+                "commercial_flight_number": meta["commercial_flight_number"],
+                "atc_callsign": meta["atc_callsign"],
+                "airline": meta["airline"],
+                "airline_code": meta["airline_code"],
+                "airline_color": meta["airline_color"],
+                "aircraft_model": meta["aircraft_model"],
+                "registration": meta["registration"],
+                "ground_status": meta["ground_status"],
+                "origin": meta["origin"],
+                "destination": meta["destination"],
+                "progress_pct": meta["progress_pct"],
+                "lat": round(lat, 5),
+                "lon": round(lon, 5),
+                "altitude_m": round(alt_m, 1),
+                "altitude_ft": alt_ft,
+                "flight_level": fl,
+                "on_ground": on_ground,
+                "velocity_kts": vel_kts,
+                "velocity_kmh": vel_kmh,
+                "velocity_ms": vel_ms,
+                "heading": heading,
+                "vertical_rate_fpm": vert_fpm,
+                "vertical_trend": v_trend,
+                "squawk": squawk,
+                "origin_country": country,
+                "last_contact": last_contact,
+                "source": "OpenSky Network (Live ADS-B)"
+            })
+    except Exception as exc:
+        print(f"[OpenSky] Live fetch notice: {exc}")
 
     # Fallback to authentic real-world DGCA flights if OpenSky returned fewer than 20 states
     # (guarantees flights are ALWAYS visible on Render without cloud IP blocks)
