@@ -4,6 +4,8 @@
 
 ---
 
+> **Quick start:** see [SETUP.md](SETUP.md) for step-by-step commands to run the backend, frontend, Docker stack and GitHub workflow.
+
 ### System Components
 
 | Component | Local URL | Description |
