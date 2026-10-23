@@ -41,3 +41,6 @@ data/snapshots/*
 !package.json
 !**/package.json
 !**/package-lock.json
+
+# Raw scraper network captures (contain airline session tokens / API keys)
+scrapers/*/captured_api_requests.json
