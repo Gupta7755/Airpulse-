@@ -21,3 +21,8 @@ htmlcov/
 .pytest_cache/
 .DS_Store
 
+
+# Secrets must never be baked into images
+.env
+.env.*
+!.env.example

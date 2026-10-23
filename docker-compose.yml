@@ -5,7 +5,8 @@ services:
     container_name: airpulse-mongodb
     restart: unless-stopped
     ports:
-      - "27017:27017"
+      # Host port 27018 so it does not clash with a MongoDB already running locally on 27017
+      - "27018:27017"
     volumes:
       - airpulse_mongo_data:/data/db
     environment:
@@ -26,6 +27,10 @@ services:
     restart: unless-stopped
     ports:
       - "8000:8000"
+    # Optional secrets (OpenSky keys, auth, email) from .env; values under `environment` take precedence
+    env_file:
+      - path: .env
+        required: false
     environment:
       - MONGO_URI=mongodb://mongodb:27017
       - MONGO_DB_NAME=apix_mospi
@@ -40,8 +45,8 @@ services:
       test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
       interval: 15s
       timeout: 5s
-      retries: 3
-      start_period: 10s
+      retries: 5
+      start_period: 60s
 
   # 3. AirPulse React 19 Production Frontend (Served via Nginx Reverse Proxy)
   frontend:

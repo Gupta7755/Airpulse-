@@ -6,3 +6,7 @@ dist
 .idea
 *.log
 
+
+# Secrets must never be baked into images
+.env
+.env.*
