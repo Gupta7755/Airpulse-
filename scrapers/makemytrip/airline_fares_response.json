@@ -1,13 +1,13 @@
 {
   "portal": "MakeMyTrip",
   "airline_code": "MMT",
-  "run_date": "2026-10-22",
+  "run_date": "2026-10-23",
   "raw_batches": {
     "DEL-BOM_T+0": {
       "corridor": "DEL-BOM",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 9134.4,
       "scheduled_flights": 6
     },
@@ -15,7 +15,7 @@
       "corridor": "DEL-BOM",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 8650.0,
       "scheduled_flights": 6
     },
@@ -23,7 +23,7 @@
       "corridor": "DEL-BOM",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 6920.0,
       "scheduled_flights": 6
     },
@@ -31,7 +31,7 @@
       "corridor": "DEL-BOM",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 6089.6,
       "scheduled_flights": 6
     },
@@ -39,7 +39,7 @@
       "corridor": "DEL-BOM",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 5397.6,
       "scheduled_flights": 6
     },
@@ -47,7 +47,7 @@
       "corridor": "DEL-BOM",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 4844.0,
       "scheduled_flights": 6
     },
@@ -55,7 +55,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 10362.0,
       "scheduled_flights": 5
     },
@@ -63,7 +63,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 9812.5,
       "scheduled_flights": 5
     },
@@ -71,7 +71,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 7850.0,
       "scheduled_flights": 5
     },
@@ -79,7 +79,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 6908.0,
       "scheduled_flights": 5
     },
@@ -87,7 +87,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 6123.0,
       "scheduled_flights": 5
     },
@@ -95,7 +95,7 @@
       "corridor": "DEL-BLR",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 5495.0,
       "scheduled_flights": 5
     },
@@ -103,7 +103,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 7194.0,
       "scheduled_flights": 4
     },
@@ -111,7 +111,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 6812.5,
       "scheduled_flights": 4
     },
@@ -119,7 +119,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 5450.0,
       "scheduled_flights": 4
     },
@@ -127,7 +127,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 4796.0,
       "scheduled_flights": 4
     },
@@ -135,7 +135,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 4251.0,
       "scheduled_flights": 4
     },
@@ -143,7 +143,7 @@
       "corridor": "BOM-BLR",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 3814.9999999999995,
       "scheduled_flights": 4
     },
@@ -151,7 +151,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 9662.4,
       "scheduled_flights": 4
     },
@@ -159,7 +159,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 9150.0,
       "scheduled_flights": 4
     },
@@ -167,7 +167,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 7320.0,
       "scheduled_flights": 4
     },
@@ -175,7 +175,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 6441.6,
       "scheduled_flights": 4
     },
@@ -183,7 +183,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 5709.6,
       "scheduled_flights": 4
     },
@@ -191,7 +191,7 @@
       "corridor": "DEL-CCU",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 5124.0,
       "scheduled_flights": 4
     },
@@ -199,7 +199,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 6177.6,
       "scheduled_flights": 4
     },
@@ -207,7 +207,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 5850.0,
       "scheduled_flights": 4
     },
@@ -215,7 +215,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 4680.0,
       "scheduled_flights": 4
     },
@@ -223,7 +223,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 4118.4,
       "scheduled_flights": 4
     },
@@ -231,7 +231,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 3650.4,
       "scheduled_flights": 4
     },
@@ -239,7 +239,7 @@
       "corridor": "BLR-HYD",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 3276.0,
       "scheduled_flights": 4
     },
@@ -247,7 +247,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 10758.0,
       "scheduled_flights": 4
     },
@@ -255,7 +255,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 10187.5,
       "scheduled_flights": 4
     },
@@ -263,7 +263,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 8150.0,
       "scheduled_flights": 4
     },
@@ -271,7 +271,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 7172.0,
       "scheduled_flights": 4
     },
@@ -279,7 +279,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 6357.0,
       "scheduled_flights": 4
     },
@@ -287,7 +287,7 @@
       "corridor": "MAA-DEL",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 5705.0,
       "scheduled_flights": 4
     },
@@ -295,7 +295,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 8817.6,
       "scheduled_flights": 4
     },
@@ -303,7 +303,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 8350.0,
       "scheduled_flights": 4
     },
@@ -311,7 +311,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 6680.0,
       "scheduled_flights": 4
     },
@@ -319,7 +319,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 5878.4,
       "scheduled_flights": 4
     },
@@ -327,7 +327,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 5210.400000000001,
       "scheduled_flights": 4
     },
@@ -335,7 +335,7 @@
       "corridor": "DEL-HYD",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 4676.0,
       "scheduled_flights": 4
     },
@@ -343,7 +343,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 6454.8,
       "scheduled_flights": 4
     },
@@ -351,7 +351,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 6112.5,
       "scheduled_flights": 4
     },
@@ -359,7 +359,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 4890.0,
       "scheduled_flights": 4
     },
@@ -367,7 +367,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 4303.2,
       "scheduled_flights": 4
     },
@@ -375,7 +375,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 3814.2000000000003,
       "scheduled_flights": 4
     },
@@ -383,7 +383,7 @@
       "corridor": "BOM-GOI",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 3423.0,
       "scheduled_flights": 4
     },
@@ -391,7 +391,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 8250.0,
       "scheduled_flights": 4
     },
@@ -399,7 +399,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 7812.5,
       "scheduled_flights": 4
     },
@@ -407,7 +407,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 6250.0,
       "scheduled_flights": 4
     },
@@ -415,7 +415,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 5500.0,
       "scheduled_flights": 4
     },
@@ -423,7 +423,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 4875.0,
       "scheduled_flights": 4
     },
@@ -431,7 +431,7 @@
       "corridor": "BOM-MAA",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 4375.0,
       "scheduled_flights": 4
     },
@@ -439,7 +439,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+0",
       "days_in_advance": 0,
-      "target_date": "2026-10-22",
+      "target_date": "2026-10-23",
       "base_reference_fare": 10533.6,
       "scheduled_flights": 4
     },
@@ -447,7 +447,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+1",
       "days_in_advance": 1,
-      "target_date": "2026-10-23",
+      "target_date": "2026-10-24",
       "base_reference_fare": 9975.0,
       "scheduled_flights": 4
     },
@@ -455,7 +455,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+7",
       "days_in_advance": 7,
-      "target_date": "2026-10-29",
+      "target_date": "2026-10-30",
       "base_reference_fare": 7980.0,
       "scheduled_flights": 4
     },
@@ -463,7 +463,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+15",
       "days_in_advance": 15,
-      "target_date": "2026-11-06",
+      "target_date": "2026-11-07",
       "base_reference_fare": 7022.4,
       "scheduled_flights": 4
     },
@@ -471,7 +471,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+30",
       "days_in_advance": 30,
-      "target_date": "2026-11-21",
+      "target_date": "2026-11-22",
       "base_reference_fare": 6224.400000000001,
       "scheduled_flights": 4
     },
@@ -479,7 +479,7 @@
       "corridor": "CCU-BLR",
       "advance_window": "T+45",
       "days_in_advance": 45,
-      "target_date": "2026-12-06",
+      "target_date": "2026-12-07",
       "base_reference_fare": 5586.0,
       "scheduled_flights": 4
     }

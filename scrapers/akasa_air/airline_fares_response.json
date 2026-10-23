@@ -1,21 +1,21 @@
 {
   "airline": "Akasa Air",
   "airline_code": "QP",
-  "run_date": "2026-10-22",
+  "run_date": "2026-10-23",
   "calendar_fares": {
     "DEL-BOM": [
       {
         "date": "2026-10-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6971,
+        "price": 11320,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6733,
+        "price": 6971,
         "soldOut": false
       },
       {
@@ -27,9 +27,9 @@
       },
       {
         "date": "2026-10-26T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 6733,
+        "price": 6504,
         "soldOut": false
       },
       {
@@ -155,14 +155,14 @@
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7471,
+        "price": 8008,
         "soldOut": false
       },
       {
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10203,
+        "price": 10933,
         "soldOut": false
       },
       {
@@ -176,28 +176,28 @@
         "date": "2026-11-16T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10561,
+        "price": 11320,
         "soldOut": false
       },
       {
         "date": "2026-11-17T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8885,
+        "price": 9197,
         "soldOut": false
       },
       {
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7471,
+        "price": 7217,
         "soldOut": false
       },
       {
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6733,
+        "price": 6971,
         "soldOut": false
       },
       {
@@ -211,7 +211,7 @@
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6971,
+        "price": 6733,
         "soldOut": false
       },
       {
@@ -232,7 +232,7 @@
         "date": "2026-11-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6733,
+        "price": 6971,
         "soldOut": false
       },
       {
@@ -272,9 +272,9 @@
       },
       {
         "date": "2026-11-30T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 6504,
+        "price": 6733,
         "soldOut": false
       },
       {
@@ -295,7 +295,7 @@
         "date": "2026-12-03T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6733,
+        "price": 6971,
         "soldOut": false
       },
       {
@@ -423,28 +423,28 @@
         "noFlights": false,
         "price": 6971,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 7734,
+        "soldOut": false
       }
     ],
     "DEL-BLR": [
       {
-        "date": "2026-10-22T00:00:00",
-        "isLowest": false,
-        "noFlights": false,
-        "price": 9984,
-        "soldOut": false
-      },
-      {
         "date": "2026-10-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10360,
+        "price": 11152,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12004,
+        "price": 13906,
         "soldOut": false
       },
       {
@@ -465,7 +465,7 @@
         "date": "2026-10-27T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9984,
+        "price": 10360,
         "soldOut": false
       },
       {
@@ -528,7 +528,7 @@
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9622,
+        "price": 9274,
         "soldOut": false
       },
       {
@@ -556,28 +556,28 @@
         "date": "2026-11-09T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9984,
+        "price": 10360,
         "soldOut": false
       },
       {
         "date": "2026-11-10T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 14428,
+        "price": 12921,
         "soldOut": false
       },
       {
         "date": "2026-11-11T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12004,
+        "price": 15528,
         "soldOut": false
       },
       {
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13406,
+        "price": 14428,
         "soldOut": false
       },
       {
@@ -591,14 +591,14 @@
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 17985,
+        "price": 16109,
         "soldOut": false
       },
       {
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21604,
+        "price": 20075,
         "soldOut": false
       },
       {
@@ -612,7 +612,7 @@
         "date": "2026-11-17T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13406,
+        "price": 14428,
         "soldOut": false
       },
       {
@@ -626,21 +626,21 @@
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10360,
+        "price": 11152,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11152,
+        "price": 11571,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12455,
+        "price": 12921,
         "soldOut": false
       },
       {
@@ -668,7 +668,7 @@
         "date": "2026-11-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12455,
+        "price": 12004,
         "soldOut": false
       },
       {
@@ -682,14 +682,14 @@
         "date": "2026-11-27T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11571,
+        "price": 10748,
         "soldOut": false
       },
       {
         "date": "2026-11-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12004,
+        "price": 11152,
         "soldOut": false
       },
       {
@@ -738,21 +738,21 @@
         "date": "2026-12-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12004,
+        "price": 11152,
         "soldOut": false
       },
       {
         "date": "2026-12-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11571,
+        "price": 10360,
         "soldOut": false
       },
       {
         "date": "2026-12-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10360,
+        "price": 9984,
         "soldOut": false
       },
       {
@@ -852,6 +852,13 @@
         "noFlights": false,
         "price": 9622,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 9984,
+        "soldOut": false
       }
     ],
     "BOM-BLR": [
@@ -859,35 +866,35 @@
         "date": "2026-10-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10214,
+        "price": 8437,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7829,
+        "price": 7544,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9455,
+        "price": 8760,
         "soldOut": false
       },
       {
         "date": "2026-10-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7274,
+        "price": 5879,
         "soldOut": false
       },
       {
         "date": "2026-10-27T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 5136,
+        "price": 5680,
         "soldOut": false
       },
       {
@@ -913,9 +920,9 @@
       },
       {
         "date": "2026-10-31T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 5136,
+        "price": 5879,
         "soldOut": false
       },
       {
@@ -957,7 +964,7 @@
         "date": "2026-11-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7015,
+        "price": 6767,
         "soldOut": false
       },
       {
@@ -992,42 +999,42 @@
         "date": "2026-11-11T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7544,
+        "price": 6767,
         "soldOut": false
       },
       {
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7829,
+        "price": 6767,
         "soldOut": false
       },
       {
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7544,
+        "price": 6767,
         "soldOut": false
       },
       {
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8437,
+        "price": 6767,
         "soldOut": false
       },
       {
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9455,
+        "price": 7829,
         "soldOut": false
       },
       {
         "date": "2026-11-16T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7544,
+        "price": 6767,
         "soldOut": false
       },
       {
@@ -1069,7 +1076,7 @@
         "date": "2026-11-22T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7544,
+        "price": 7829,
         "soldOut": false
       },
       {
@@ -1111,7 +1118,7 @@
         "date": "2026-11-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6767,
+        "price": 7015,
         "soldOut": false
       },
       {
@@ -1153,7 +1160,7 @@
         "date": "2026-12-04T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7274,
+        "price": 7544,
         "soldOut": false
       },
       {
@@ -1274,56 +1281,63 @@
         "noFlights": false,
         "price": 7829,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 7544,
+        "soldOut": false
       }
     ],
     "DEL-CCU": [
       {
         "date": "2026-10-23T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 8293,
+        "price": 13117,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 8711,
+        "price": 9002,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11611,
+        "price": 17117,
         "soldOut": false
       },
       {
         "date": "2026-10-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11611,
+        "price": 10837,
         "soldOut": false
       },
       {
         "date": "2026-10-27T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10123,
+        "price": 9463,
         "soldOut": false
       },
       {
         "date": "2026-10-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9463,
+        "price": 9153,
         "soldOut": false
       },
       {
         "date": "2026-10-29T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 9153,
+        "price": 9002,
         "soldOut": false
       },
       {
@@ -1351,7 +1365,7 @@
         "date": "2026-11-02T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9463,
+        "price": 9308,
         "soldOut": false
       },
       {
@@ -1372,21 +1386,21 @@
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11411,
+        "price": 10654,
         "soldOut": false
       },
       {
         "date": "2026-11-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12666,
+        "price": 11812,
         "soldOut": false
       },
       {
         "date": "2026-11-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11812,
+        "price": 11411,
         "soldOut": false
       },
       {
@@ -1442,7 +1456,7 @@
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9153,
+        "price": 9002,
         "soldOut": false
       },
       {
@@ -1477,14 +1491,14 @@
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9463,
+        "price": 9002,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9002,
+        "price": 9308,
         "soldOut": false
       },
       {
@@ -1503,9 +1517,9 @@
       },
       {
         "date": "2026-11-24T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 8711,
+        "price": 9002,
         "soldOut": false
       },
       {
@@ -1545,9 +1559,9 @@
       },
       {
         "date": "2026-11-30T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 8711,
+        "price": 9308,
         "soldOut": false
       },
       {
@@ -1696,49 +1710,49 @@
         "noFlights": false,
         "price": 9153,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": true,
+        "noFlights": false,
+        "price": 8711,
+        "soldOut": false
       }
     ],
     "BLR-HYD": [
       {
-        "date": "2026-10-23T00:00:00",
-        "isLowest": false,
-        "noFlights": false,
-        "price": 20753,
-        "soldOut": false
-      },
-      {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 22904,
+        "price": 22924,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 25069,
+        "price": 24884,
         "soldOut": false
       },
       {
         "date": "2026-10-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19775,
+        "price": 20862,
         "soldOut": false
       },
       {
         "date": "2026-10-27T00:00:00",
         "isLowest": true,
         "noFlights": false,
-        "price": 18607,
+        "price": 18983,
         "soldOut": false
       },
       {
         "date": "2026-10-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20627,
+        "price": 19775,
         "soldOut": false
       },
       {
@@ -1752,63 +1766,63 @@
         "date": "2026-10-30T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 22466,
+        "price": 21401,
         "soldOut": false
       },
       {
         "date": "2026-10-31T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 23592,
+        "price": 24151,
         "soldOut": false
       },
       {
         "date": "2026-11-01T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 22165,
+        "price": 22631,
         "soldOut": false
       },
       {
         "date": "2026-11-02T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 23170,
+        "price": 23592,
         "soldOut": false
       },
       {
         "date": "2026-11-03T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20656,
+        "price": 21122,
         "soldOut": false
       },
       {
         "date": "2026-11-04T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 24912,
+        "price": 24310,
         "soldOut": false
       },
       {
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 26563,
+        "price": 25233,
         "soldOut": false
       },
       {
         "date": "2026-11-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 27425,
+        "price": 26323,
         "soldOut": false
       },
       {
         "date": "2026-11-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 27425,
+        "price": 26858,
         "soldOut": false
       },
       {
@@ -1829,7 +1843,7 @@
         "date": "2026-11-10T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20823,
+        "price": 20943,
         "soldOut": false
       },
       {
@@ -1843,21 +1857,21 @@
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20943,
+        "price": 20823,
         "soldOut": false
       },
       {
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21319,
+        "price": 20943,
         "soldOut": false
       },
       {
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 23905,
+        "price": 23362,
         "soldOut": false
       },
       {
@@ -1871,77 +1885,77 @@
         "date": "2026-11-16T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21947,
+        "price": 22160,
         "soldOut": false
       },
       {
         "date": "2026-11-17T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21319,
+        "price": 20581,
         "soldOut": false
       },
       {
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20238,
+        "price": 20070,
         "soldOut": false
       },
       {
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20238,
+        "price": 20458,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21449,
+        "price": 22111,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 22333,
+        "price": 21714,
         "soldOut": false
       },
       {
         "date": "2026-11-22T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 23589,
+        "price": 23766,
         "soldOut": false
       },
       {
         "date": "2026-11-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20033,
+        "price": 20070,
         "soldOut": false
       },
       {
         "date": "2026-11-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20970,
+        "price": 20753,
         "soldOut": false
       },
       {
         "date": "2026-11-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20753,
+        "price": 20393,
         "soldOut": false
       },
       {
         "date": "2026-11-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21517,
+        "price": 20753,
         "soldOut": false
       },
       {
@@ -1955,7 +1969,7 @@
         "date": "2026-11-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 21449,
+        "price": 20033,
         "soldOut": false
       },
       {
@@ -1969,49 +1983,49 @@
         "date": "2026-11-30T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20206,
+        "price": 19332,
         "soldOut": false
       },
       {
         "date": "2026-12-01T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19500,
+        "price": 19332,
         "soldOut": false
       },
       {
         "date": "2026-12-02T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19500,
+        "price": 19332,
         "soldOut": false
       },
       {
         "date": "2026-12-03T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20626,
+        "price": 19332,
         "soldOut": false
       },
       {
         "date": "2026-12-04T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19673,
+        "price": 19500,
         "soldOut": false
       },
       {
         "date": "2026-12-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 20626,
+        "price": 20238,
         "soldOut": false
       },
       {
         "date": "2026-12-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19847,
+        "price": 19673,
         "soldOut": false
       },
       {
@@ -2118,28 +2132,28 @@
         "noFlights": false,
         "price": 20971,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 19332,
+        "soldOut": false
       }
     ],
     "MAA-DEL": [
       {
-        "date": "2026-10-23T00:00:00",
-        "isLowest": false,
-        "noFlights": false,
-        "price": 24931,
-        "soldOut": false
-      },
-      {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13077,
+        "price": 12325,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 16351,
+        "price": 16924,
         "soldOut": false
       },
       {
@@ -2188,7 +2202,7 @@
         "date": "2026-11-01T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 14754,
+        "price": 15306,
         "soldOut": false
       },
       {
@@ -2200,9 +2214,9 @@
       },
       {
         "date": "2026-11-03T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 12325,
+        "price": 12694,
         "soldOut": false
       },
       {
@@ -2216,7 +2230,7 @@
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 19544,
+        "price": 20837,
         "soldOut": false
       },
       {
@@ -2230,7 +2244,7 @@
         "date": "2026-11-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 17772,
+        "price": 17223,
         "soldOut": false
       },
       {
@@ -2242,9 +2256,9 @@
       },
       {
         "date": "2026-11-09T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 12694,
+        "price": 12325,
         "soldOut": false
       },
       {
@@ -2258,28 +2272,28 @@
         "date": "2026-11-11T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13475,
+        "price": 15948,
         "soldOut": false
       },
       {
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 15034,
+        "price": 15213,
         "soldOut": false
       },
       {
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 17692,
+        "price": 15948,
         "soldOut": false
       },
       {
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 22336,
+        "price": 23673,
         "soldOut": false
       },
       {
@@ -2300,28 +2314,28 @@
         "date": "2026-11-17T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 18317,
+        "price": 18519,
         "soldOut": false
       },
       {
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 18724,
+        "price": 17928,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 15738,
+        "price": 16513,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 16046,
+        "price": 14435,
         "soldOut": false
       },
       {
@@ -2377,7 +2391,7 @@
         "date": "2026-11-29T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 16275,
+        "price": 16608,
         "soldOut": false
       },
       {
@@ -2396,9 +2410,9 @@
       },
       {
         "date": "2026-12-02T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 12694,
+        "price": 12325,
         "soldOut": false
       },
       {
@@ -2410,9 +2424,9 @@
       },
       {
         "date": "2026-12-04T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 12325,
+        "price": 12694,
         "soldOut": false
       },
       {
@@ -2533,28 +2547,35 @@
         "noFlights": false,
         "price": 12325,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 12694,
+        "soldOut": false
       }
     ],
     "DEL-HYD": [
       {
         "date": "2026-10-23T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 8893,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9484,
+        "price": 11182,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13027,
+        "price": 12376,
         "soldOut": false
       },
       {
@@ -2587,9 +2608,9 @@
       },
       {
         "date": "2026-10-30T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 9036,
+        "price": 8893,
         "soldOut": false
       },
       {
@@ -2610,7 +2631,7 @@
         "date": "2026-11-02T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8614,
+        "price": 9036,
         "soldOut": false
       },
       {
@@ -2631,21 +2652,21 @@
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9183,
+        "price": 7661,
         "soldOut": false
       },
       {
         "date": "2026-11-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9183,
+        "price": 8751,
         "soldOut": false
       },
       {
         "date": "2026-11-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9183,
+        "price": 8614,
         "soldOut": false
       },
       {
@@ -2666,7 +2687,7 @@
         "date": "2026-11-10T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11962,
+        "price": 11372,
         "soldOut": false
       },
       {
@@ -2694,14 +2715,14 @@
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12806,
+        "price": 13027,
         "soldOut": false
       },
       {
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 16298,
+        "price": 14861,
         "soldOut": false
       },
       {
@@ -2722,49 +2743,49 @@
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-11-22T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11564,
+        "price": 11761,
         "soldOut": false
       },
       {
         "date": "2026-11-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10462,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-11-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11761,
+        "price": 11182,
         "soldOut": false
       },
       {
@@ -2785,14 +2806,14 @@
         "date": "2026-11-27T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10462,
+        "price": 10291,
         "soldOut": false
       },
       {
         "date": "2026-11-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
@@ -2806,49 +2827,49 @@
         "date": "2026-11-30T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10462,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-12-01T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-12-02T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-12-03T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-12-04T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10462,
+        "price": 10291,
         "soldOut": false
       },
       {
         "date": "2026-12-05T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 10291,
+        "price": 10123,
         "soldOut": false
       },
       {
         "date": "2026-12-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10636,
+        "price": 10462,
         "soldOut": false
       },
       {
@@ -2955,43 +2976,43 @@
         "noFlights": false,
         "price": 10291,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": true,
+        "noFlights": false,
+        "price": 10123,
+        "soldOut": false
       }
     ],
     "BOM-GOI": [],
     "BOM-MAA": [
       {
-        "date": "2026-10-23T00:00:00",
-        "isLowest": false,
-        "noFlights": false,
-        "price": 6733,
-        "soldOut": false
-      },
-      {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6838,
+        "price": 6954,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6954,
+        "price": 6838,
         "soldOut": false
       },
       {
         "date": "2026-10-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6954,
+        "price": 7403,
         "soldOut": false
       },
       {
         "date": "2026-10-27T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 6632,
+        "price": 6733,
         "soldOut": false
       },
       {
@@ -3019,7 +3040,7 @@
         "date": "2026-10-31T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 6838,
+        "price": 6733,
         "soldOut": false
       },
       {
@@ -3047,35 +3068,35 @@
         "date": "2026-11-04T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7521,
+        "price": 7064,
         "soldOut": false
       },
       {
         "date": "2026-11-05T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7641,
+        "price": 7764,
         "soldOut": false
       },
       {
         "date": "2026-11-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10616,
+        "price": 11763,
         "soldOut": false
       },
       {
         "date": "2026-11-07T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 17623,
+        "price": 16152,
         "soldOut": false
       },
       {
         "date": "2026-11-08T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9595,
+        "price": 8550,
         "soldOut": false
       },
       {
@@ -3089,49 +3110,49 @@
         "date": "2026-11-10T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11968,
+        "price": 10616,
         "soldOut": false
       },
       {
         "date": "2026-11-11T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11968,
+        "price": 8692,
         "soldOut": false
       },
       {
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9439,
+        "price": 6954,
         "soldOut": false
       },
       {
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7889,
+        "price": 7521,
         "soldOut": false
       },
       {
         "date": "2026-11-14T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9922,
+        "price": 8692,
         "soldOut": false
       },
       {
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9439,
+        "price": 7403,
         "soldOut": false
       },
       {
         "date": "2026-11-16T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7403,
+        "price": 6838,
         "soldOut": false
       },
       {
@@ -3145,28 +3166,28 @@
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7064,
+        "price": 7403,
         "soldOut": false
       },
       {
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7287,
+        "price": 7064,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 7064,
+        "price": 6632,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8834,
+        "price": 7403,
         "soldOut": false
       },
       {
@@ -3378,77 +3399,84 @@
         "noFlights": false,
         "price": 7764,
         "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 9283,
+        "soldOut": false
       }
     ],
     "CCU-BLR": [
       {
         "date": "2026-10-23T00:00:00",
-        "isLowest": true,
+        "isLowest": false,
         "noFlights": false,
-        "price": 8013,
+        "price": 10192,
         "soldOut": false
       },
       {
         "date": "2026-10-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9136,
+        "price": 9386,
         "soldOut": false
       },
       {
         "date": "2026-10-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 13210,
+        "price": 11412,
         "soldOut": false
       },
       {
         "date": "2026-10-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12452,
+        "price": 11747,
         "soldOut": false
       },
       {
         "date": "2026-10-27T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 11412,
+        "price": 10481,
         "soldOut": false
       },
       {
         "date": "2026-10-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9386,
+        "price": 9136,
         "soldOut": false
       },
       {
         "date": "2026-10-29T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 9386,
+        "price": 8440,
         "soldOut": false
       },
       {
         "date": "2026-10-30T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8894,
+        "price": 9136,
         "soldOut": false
       },
       {
         "date": "2026-10-31T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9386,
+        "price": 9914,
         "soldOut": false
       },
       {
         "date": "2026-11-01T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10481,
+        "price": 11412,
         "soldOut": false
       },
       {
@@ -3488,16 +3516,16 @@
       },
       {
         "date": "2026-11-07T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 7251,
+        "price": 6910,
         "soldOut": false
       },
       {
         "date": "2026-11-08T00:00:00",
-        "isLowest": false,
+        "isLowest": true,
         "noFlights": false,
-        "price": 7251,
+        "price": 6910,
         "soldOut": false
       },
       {
@@ -3518,21 +3546,21 @@
         "date": "2026-11-11T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9645,
+        "price": 8440,
         "soldOut": false
       },
       {
         "date": "2026-11-12T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9136,
+        "price": 8894,
         "soldOut": false
       },
       {
         "date": "2026-11-13T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8894,
+        "price": 9386,
         "soldOut": false
       },
       {
@@ -3546,14 +3574,14 @@
         "date": "2026-11-15T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 12452,
+        "price": 14457,
         "soldOut": false
       },
       {
         "date": "2026-11-16T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 10780,
+        "price": 11412,
         "soldOut": false
       },
       {
@@ -3567,63 +3595,63 @@
         "date": "2026-11-18T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9136,
+        "price": 9386,
         "soldOut": false
       },
       {
         "date": "2026-11-19T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8894,
+        "price": 8013,
         "soldOut": false
       },
       {
         "date": "2026-11-20T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7814,
+        "price": 8222,
         "soldOut": false
       },
       {
         "date": "2026-11-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8013,
+        "price": 8222,
         "soldOut": false
       },
       {
         "date": "2026-11-22T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8663,
+        "price": 9386,
         "soldOut": false
       },
       {
         "date": "2026-11-23T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8222,
+        "price": 8663,
         "soldOut": false
       },
       {
         "date": "2026-11-24T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8222,
+        "price": 10481,
         "soldOut": false
       },
       {
         "date": "2026-11-25T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8894,
+        "price": 8013,
         "soldOut": false
       },
       {
         "date": "2026-11-26T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7433,
+        "price": 7814,
         "soldOut": false
       },
       {
@@ -3637,7 +3665,7 @@
         "date": "2026-11-28T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 9136,
+        "price": 8440,
         "soldOut": false
       },
       {
@@ -3693,7 +3721,7 @@
         "date": "2026-12-06T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 7619,
+        "price": 8013,
         "soldOut": false
       },
       {
@@ -3798,7 +3826,14 @@
         "date": "2026-12-21T00:00:00",
         "isLowest": false,
         "noFlights": false,
-        "price": 8222,
+        "price": 8013,
+        "soldOut": false
+      },
+      {
+        "date": "2026-12-22T00:00:00",
+        "isLowest": false,
+        "noFlights": false,
+        "price": 8013,
         "soldOut": false
       }
     ]
